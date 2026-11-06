@@ -10,3 +10,4 @@ Config/Firebase.xcconfig
 App/Info.plist
 App/Nostargia.entitlements
 build/
+*-debug.log
