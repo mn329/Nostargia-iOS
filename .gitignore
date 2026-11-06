@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+DerivedData/
+xcuserdata/
+*.xcodeproj/
+GoogleService-Info.plist
+node_modules/
+.superpowers/

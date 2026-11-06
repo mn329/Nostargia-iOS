@@ -1,0 +1,93 @@
+[
+ {
+  "input": "andromeda",
+  "hash": 1131821161,
+  "centerX": 61.599999999999966,
+  "centerY": 103.20000000000002,
+  "baseZ": -4.45
+ },
+ {
+  "input": "monoceros",
+  "hash": 1447045839,
+  "centerX": -61.599999999999994,
+  "centerY": -103.2,
+  "baseZ": -0.5500000000000007
+ },
+ {
+  "input": "sagittarius",
+  "hash": 2034601670,
+  "centerX": 112,
+  "centerY": -96,
+  "baseZ": 3.5
+ },
+ {
+  "input": "delphinus",
+  "hash": 54736826,
+  "centerX": -134.4,
+  "centerY": -28.799999999999997,
+  "baseZ": -3.7
+ },
+ {
+  "input": "indus",
+  "hash": 100346557,
+  "centerX": 39.19999999999999,
+  "centerY": -21.60000000000001,
+  "baseZ": 0.34999999999999964
+ },
+ {
+  "input": "pisces",
+  "hash": 988008329,
+  "centerX": -117.60000000000002,
+  "centerY": 64.80000000000001,
+  "baseZ": 3.950000000000001
+ },
+ {
+  "input": "lepus",
+  "hash": 102860533,
+  "centerX": -95.19999999999999,
+  "centerY": -50.400000000000006,
+  "baseZ": -0.8499999999999996
+ },
+ {
+  "input": "bootes",
+  "hash": 1383378144,
+  "centerX": -33.599999999999994,
+  "centerY": 52.79999999999998,
+  "baseZ": -2.8000000000000007
+ },
+ {
+  "input": "hydra",
+  "hash": 99750626,
+  "centerX": -134.4,
+  "centerY": -28.799999999999997,
+  "baseZ": -3.7
+ },
+ {
+  "input": "",
+  "hash": 0,
+  "centerX": -280,
+  "centerY": -120,
+  "baseZ": -10
+ },
+ {
+  "input": "a",
+  "hash": 97,
+  "centerX": 263.19999999999993,
+  "centerY": 26.400000000000006,
+  "baseZ": -2.6500000000000004
+ },
+ {
+  "input": "ノスタージア",
+  "hash": 228714482,
+  "centerX": 179.2,
+  "centerY": 38.400000000000006,
+  "baseZ": 4.1
+ },
+ {
+  "input": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "hash": 237795072,
+  "centerX": 123.19999999999999,
+  "centerY": -33.60000000000001,
+  "baseZ": -6.4
+ }
+]
