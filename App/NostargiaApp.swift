@@ -1,11 +1,19 @@
+import GoogleSignIn
 import NostargiaKit
 import SwiftUI
 
 @main
 struct NostargiaApp: App {
+    init() {
+        FirebaseBootstrap.configure()
+    }
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .onOpenURL { url in
+                    _ = GIDSignIn.sharedInstance.handle(url)
+                }
         }
     }
 }

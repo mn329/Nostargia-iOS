@@ -1,0 +1,3 @@
+// cp Config/Firebase.xcconfig.example Config/Firebase.xcconfig して値を書き換える
+// 値は GoogleService-Info.plist の REVERSED_CLIENT_ID（Google でサインインのコールバック URL）
+GOOGLE_REVERSED_CLIENT_ID = com.googleusercontent.apps.000000000000-placeholder

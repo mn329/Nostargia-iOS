@@ -6,17 +6,56 @@ options:
 packages:
   NostargiaKit:
     path: Packages/NostargiaKit
+  Firebase:
+    url: https://github.com/firebase/firebase-ios-sdk
+    exactVersion: 12.19.3
+  GoogleSignIn:
+    url: https://github.com/google/GoogleSignIn-iOS
+    exactVersion: 10.1.0
 targets:
   Nostargia:
     type: application
     platform: iOS
-    sources: [App]
+    sources:
+      - path: App
+        excludes:
+          - Info.plist
+          - Nostargia.entitlements
+    configFiles:
+      Debug: Config/Firebase.xcconfig
+      Release: Config/Firebase.xcconfig
+    info:
+      path: App/Info.plist
+      properties:
+        CFBundleURLTypes:
+          - CFBundleURLSchemes:
+              - $(GOOGLE_REVERSED_CLIENT_ID)
+    entitlements:
+      path: App/Nostargia.entitlements
+      properties:
+        com.apple.developer.applesignin:
+          - Default
+        com.apple.developer.devicecheck.appattest-environment: development
     dependencies:
       - package: NostargiaKit
+      - package: Firebase
+        product: FirebaseAuth
+      - package: Firebase
+        product: FirebaseFirestore
+      - package: Firebase
+        product: FirebaseAILogic
+      - package: Firebase
+        product: FirebaseRemoteConfig
+      - package: Firebase
+        product: FirebaseAppCheck
+      - package: GoogleSignIn
+        product: GoogleSignIn
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.mn329.nostargia
         PRODUCT_NAME: Nostargia
+        DEVELOPMENT_TEAM: K3BSAX58ZG
+        CODE_SIGN_STYLE: Automatic
         TARGETED_DEVICE_FAMILY: "1"
         SWIFT_VERSION: "6.0"
         GENERATE_INFOPLIST_FILE: YES
@@ -25,3 +64,23 @@ targets:
         INFOPLIST_KEY_UILaunchScreen_Generation: YES
         MARKETING_VERSION: "0.1.0"
         CURRENT_PROJECT_VERSION: "1"
+  NostargiaTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources: [AppTests]
+    dependencies:
+      - target: Nostargia
+    settings:
+      base:
+        GENERATE_INFOPLIST_FILE: YES
+        DEVELOPMENT_TEAM: K3BSAX58ZG
+        SWIFT_VERSION: "6.0"
+schemes:
+  Nostargia:
+    build:
+      targets:
+        Nostargia: all
+        NostargiaTests: [test]
+    test:
+      targets:
+        - NostargiaTests

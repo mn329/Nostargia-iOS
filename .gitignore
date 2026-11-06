@@ -6,3 +6,7 @@ xcuserdata/
 GoogleService-Info.plist
 node_modules/
 .superpowers/
+Config/Firebase.xcconfig
+App/Info.plist
+App/Nostargia.entitlements
+build/
