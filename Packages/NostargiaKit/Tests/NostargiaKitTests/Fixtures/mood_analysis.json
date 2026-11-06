@@ -1,0 +1,7189 @@
+[
+ {
+  "mood": {
+   "emotional": 0,
+   "motivation": 0,
+   "social": 0,
+   "physical": 0,
+   "fulfillment": 0
+  },
+  "goodThings": [],
+  "emotion": "消耗・虚無",
+  "feedback": "今はとても辛い時期かもしれません。でも、この夜空のように、暗闇の中にも必ず光はあります。",
+  "totalScore": 0
+ },
+ {
+  "mood": {
+   "emotional": 1,
+   "motivation": 1,
+   "social": 1,
+   "physical": 1,
+   "fulfillment": 1
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "消耗・虚無",
+  "feedback": "「散歩した」いいですね。今はとても辛い時期かもしれません。でも、この夜空のように、暗闇の中にも必ず光はあります。",
+  "totalScore": 1
+ },
+ {
+  "mood": {
+   "emotional": 33,
+   "motivation": 33,
+   "social": 33,
+   "physical": 33,
+   "fulfillment": 33
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "消耗・虚無",
+  "feedback": "「散歩した、カフェ」いいですね。今はとても辛い時期かもしれません。でも、この夜空のように、暗闇の中にも必ず光はあります。",
+  "totalScore": 33
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 34,
+   "social": 34,
+   "physical": 34,
+   "fulfillment": 34
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 34
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「朝ごはん」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 66,
+   "social": 66,
+   "physical": 66,
+   "fulfillment": 66
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 66
+ },
+ {
+  "mood": {
+   "emotional": 67,
+   "motivation": 67,
+   "social": 67,
+   "physical": 67,
+   "fulfillment": 67
+  },
+  "goodThings": [],
+  "emotion": "うれしい・充実・幸福",
+  "feedback": "今日はとても充実した一日でしたね。その輝きを忘れずに、明日もいい一日になりますように。",
+  "totalScore": 67
+ },
+ {
+  "mood": {
+   "emotional": 99,
+   "motivation": 99,
+   "social": 99,
+   "physical": 99,
+   "fulfillment": 99
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "うれしい・充実・幸福",
+  "feedback": "「散歩した」いいですね。今日はとても充実した一日でしたね。その輝きを忘れずに、明日もいい一日になりますように。",
+  "totalScore": 99
+ },
+ {
+  "mood": {
+   "emotional": 100,
+   "motivation": 100,
+   "social": 100,
+   "physical": 100,
+   "fulfillment": 100
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "うれしい・充実・幸福",
+  "feedback": "「散歩した、カフェ」いいですね。今日はとても充実した一日でしたね。その輝きを忘れずに、明日もいい一日になりますように。",
+  "totalScore": 100
+ },
+ {
+  "mood": {
+   "emotional": 0,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 35
+ },
+ {
+  "mood": {
+   "emotional": 1,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 35.3
+ },
+ {
+  "mood": {
+   "emotional": 33,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 44.9
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 45.2
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 54.8
+ },
+ {
+  "mood": {
+   "emotional": 67,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 55.1
+ },
+ {
+  "mood": {
+   "emotional": 99,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「朝ごはん」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 64.7
+ },
+ {
+  "mood": {
+   "emotional": 100,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「a、b、c」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 65
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 0,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [],
+  "emotion": "なんとなく不満",
+  "feedback": "はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 37.5
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 1,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「散歩した」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 37.8
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 33,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 45.8
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 34,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 46
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「朝ごはん」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 66,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 54
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 67,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 54.3
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 99,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 62.3
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 100,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した、カフェ」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 62.5
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 0,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「空がきれい、友達と話した」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 40
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 1,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「朝ごはん」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 40.2
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 33,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 46.6
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 34,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 46.8
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 66,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 53.2
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 67,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 53.4
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 99,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「朝ごはん」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 59.8
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 100,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「a、b、c」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 60
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 0,
+   "fulfillment": 50
+  },
+  "goodThings": [],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 45
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 1,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「散歩した」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 45.1
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 33,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 48.3
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 34,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 48.4
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「朝ごはん」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 66,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 51.6
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 67,
+   "fulfillment": 50
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 51.7
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 99,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「散歩した」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 54.9
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 100,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「散歩した、カフェ」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 55
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 0
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「空がきれい、友達と話した」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 42.5
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 1
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「朝ごはん」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 42.7
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 33
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 47.5
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 34
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 47.6
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 66
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 52.4
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 67
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 52.6
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 99
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「朝ごはん」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 57.4
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 50,
+   "social": 50,
+   "physical": 50,
+   "fulfillment": 100
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「a、b、c」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 57.5
+ },
+ {
+  "mood": {
+   "emotional": 48,
+   "motivation": 88,
+   "social": 71,
+   "physical": 18,
+   "fulfillment": 88
+  },
+  "goodThings": [],
+  "emotion": "静かな充足",
+  "feedback": "派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 65.6
+ },
+ {
+  "mood": {
+   "emotional": 76,
+   "motivation": 34,
+   "social": 92,
+   "physical": 75,
+   "fulfillment": 60
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「散歩した」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 66.2
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 70,
+   "social": 70,
+   "physical": 63,
+   "fulfillment": 6
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「散歩した、カフェ」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 46.2
+ },
+ {
+  "mood": {
+   "emotional": 26,
+   "motivation": 44,
+   "social": 43,
+   "physical": 77,
+   "fulfillment": 98
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「空がきれい、友達と話した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 49.8
+ },
+ {
+  "mood": {
+   "emotional": 17,
+   "motivation": 27,
+   "social": 1,
+   "physical": 35,
+   "fulfillment": 69
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「朝ごはん」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 25.9
+ },
+ {
+  "mood": {
+   "emotional": 53,
+   "motivation": 77,
+   "social": 9,
+   "physical": 57,
+   "fulfillment": 2
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「a、b、c」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 42.9
+ },
+ {
+  "mood": {
+   "emotional": 49,
+   "motivation": 59,
+   "social": 43,
+   "physical": 14,
+   "fulfillment": 30
+  },
+  "goodThings": [],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 43.9
+ },
+ {
+  "mood": {
+   "emotional": 87,
+   "motivation": 3,
+   "social": 89,
+   "physical": 67,
+   "fulfillment": 40
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "元気だが物足りない",
+  "feedback": "「散歩した」いいですね。元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 57.4
+ },
+ {
+  "mood": {
+   "emotional": 70,
+   "motivation": 54,
+   "social": 49,
+   "physical": 32,
+   "fulfillment": 41
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 53.7
+ },
+ {
+  "mood": {
+   "emotional": 29,
+   "motivation": 94,
+   "social": 86,
+   "physical": 46,
+   "fulfillment": 19
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 56.9
+ },
+ {
+  "mood": {
+   "emotional": 5,
+   "motivation": 5,
+   "social": 63,
+   "physical": 22,
+   "fulfillment": 22
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「朝ごはん」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 20.9
+ },
+ {
+  "mood": {
+   "emotional": 19,
+   "motivation": 8,
+   "social": 29,
+   "physical": 96,
+   "fulfillment": 37
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「a、b、c」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 28.7
+ },
+ {
+  "mood": {
+   "emotional": 68,
+   "motivation": 61,
+   "social": 43,
+   "physical": 14,
+   "fulfillment": 26
+  },
+  "goodThings": [],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 49.6
+ },
+ {
+  "mood": {
+   "emotional": 55,
+   "motivation": 8,
+   "social": 28,
+   "physical": 9,
+   "fulfillment": 9
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "停滞・モヤモヤ",
+  "feedback": "「散歩した」いいですね。何もかもが止まっているように感じる時もあります。でも、止まっている時間も必要な時間です。",
+  "totalScore": 26.4
+ },
+ {
+  "mood": {
+   "emotional": 85,
+   "motivation": 0,
+   "social": 62,
+   "physical": 37,
+   "fulfillment": 0
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 41.6
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 8,
+   "social": 1,
+   "physical": 75,
+   "fulfillment": 62
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 25.6
+ },
+ {
+  "mood": {
+   "emotional": 81,
+   "motivation": 24,
+   "social": 81,
+   "physical": 70,
+   "fulfillment": 12
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "元気だが物足りない",
+  "feedback": "「朝ごはん」いいですね。元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 55.3
+ },
+ {
+  "mood": {
+   "emotional": 84,
+   "motivation": 94,
+   "social": 8,
+   "physical": 16,
+   "fulfillment": 57
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "リラックス・静穏",
+  "feedback": "「a、b、c」いいですね。ゆったりと心が落ち着いている時間、大切にしてくださいね。",
+  "totalScore": 60.5
+ },
+ {
+  "mood": {
+   "emotional": 93,
+   "motivation": 64,
+   "social": 18,
+   "physical": 73,
+   "fulfillment": 45
+  },
+  "goodThings": [],
+  "emotion": "まずまず・平穏",
+  "feedback": "特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 61.6
+ },
+ {
+  "mood": {
+   "emotional": 31,
+   "motivation": 96,
+   "social": 67,
+   "physical": 10,
+   "fulfillment": 65
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「散歩した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 57.5
+ },
+ {
+  "mood": {
+   "emotional": 49,
+   "motivation": 62,
+   "social": 23,
+   "physical": 44,
+   "fulfillment": 17
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 41.7
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 43,
+   "social": 100,
+   "physical": 89,
+   "fulfillment": 45
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「空がきれい、友達と話した」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 53
+ },
+ {
+  "mood": {
+   "emotional": 97,
+   "motivation": 95,
+   "social": 92,
+   "physical": 93,
+   "fulfillment": 35
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「朝ごはん」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 85.8
+ },
+ {
+  "mood": {
+   "emotional": 49,
+   "motivation": 66,
+   "social": 78,
+   "physical": 88,
+   "fulfillment": 69
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "やる気はあるが不安定",
+  "feedback": "「a、b、c」いいですね。エネルギーはあるのに気持ちが揺れている…そんな時は深呼吸して、一つずつ進めていきましょう。",
+  "totalScore": 65.9
+ },
+ {
+  "mood": {
+   "emotional": 28,
+   "motivation": 52,
+   "social": 82,
+   "physical": 9,
+   "fulfillment": 6
+  },
+  "goodThings": [],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 39.6
+ },
+ {
+  "mood": {
+   "emotional": 70,
+   "motivation": 66,
+   "social": 72,
+   "physical": 90,
+   "fulfillment": 11
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「散歩した」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 62.6
+ },
+ {
+  "mood": {
+   "emotional": 48,
+   "motivation": 41,
+   "social": 29,
+   "physical": 7,
+   "fulfillment": 44
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「散歩した、カフェ」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 37.8
+ },
+ {
+  "mood": {
+   "emotional": 86,
+   "motivation": 90,
+   "social": 82,
+   "physical": 95,
+   "fulfillment": 95
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "うれしい・充実・幸福",
+  "feedback": "「空がきれい、友達と話した」いいですね。今日はとても充実した一日でしたね。その輝きを忘れずに、明日もいい一日になりますように。",
+  "totalScore": 88.5
+ },
+ {
+  "mood": {
+   "emotional": 9,
+   "motivation": 8,
+   "social": 85,
+   "physical": 16,
+   "fulfillment": 60
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 32.3
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 5,
+   "social": 21,
+   "physical": 87,
+   "fulfillment": 6
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「a、b、c」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 34.9
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 16,
+   "social": 68,
+   "physical": 92,
+   "fulfillment": 32
+  },
+  "goodThings": [],
+  "emotion": "苛立ち・暴走",
+  "feedback": "気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 32.8
+ },
+ {
+  "mood": {
+   "emotional": 63,
+   "motivation": 43,
+   "social": 67,
+   "physical": 93,
+   "fulfillment": 92
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "やる気はあるが不安定",
+  "feedback": "「散歩した」いいですね。エネルギーはあるのに気持ちが揺れている…そんな時は深呼吸して、一つずつ進めていきましょう。",
+  "totalScore": 66.1
+ },
+ {
+  "mood": {
+   "emotional": 85,
+   "motivation": 60,
+   "social": 32,
+   "physical": 19,
+   "fulfillment": 21
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した、カフェ」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 52
+ },
+ {
+  "mood": {
+   "emotional": 37,
+   "motivation": 35,
+   "social": 88,
+   "physical": 21,
+   "fulfillment": 43
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 46
+ },
+ {
+  "mood": {
+   "emotional": 20,
+   "motivation": 6,
+   "social": 14,
+   "physical": 23,
+   "fulfillment": 39
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "消耗・虚無",
+  "feedback": "「朝ごはん」いいですね。今はとても辛い時期かもしれません。でも、この夜空のように、暗闇の中にも必ず光はあります。",
+  "totalScore": 18.5
+ },
+ {
+  "mood": {
+   "emotional": 57,
+   "motivation": 8,
+   "social": 94,
+   "physical": 28,
+   "fulfillment": 87
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 53.7
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 1,
+   "social": 70,
+   "physical": 9,
+   "fulfillment": 47
+  },
+  "goodThings": [],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 23.4
+ },
+ {
+  "mood": {
+   "emotional": 6,
+   "motivation": 61,
+   "social": 85,
+   "physical": 53,
+   "fulfillment": 61
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「散歩した」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 48.5
+ },
+ {
+  "mood": {
+   "emotional": 91,
+   "motivation": 43,
+   "social": 99,
+   "physical": 91,
+   "fulfillment": 75
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「散歩した、カフェ」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 78.2
+ },
+ {
+  "mood": {
+   "emotional": 84,
+   "motivation": 59,
+   "social": 75,
+   "physical": 10,
+   "fulfillment": 57
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 64.5
+ },
+ {
+  "mood": {
+   "emotional": 44,
+   "motivation": 93,
+   "social": 42,
+   "physical": 5,
+   "fulfillment": 62
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "疲れているが満足",
+  "feedback": "「朝ごはん」いいですね。体は疲れていても心は満たされている…そんな充実した疲労感は素敵です。ゆっくり休んでくださいね。",
+  "totalScore": 54.7
+ },
+ {
+  "mood": {
+   "emotional": 2,
+   "motivation": 37,
+   "social": 40,
+   "physical": 98,
+   "fulfillment": 33
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「a、b、c」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 32.6
+ },
+ {
+  "mood": {
+   "emotional": 41,
+   "motivation": 62,
+   "social": 10,
+   "physical": 30,
+   "fulfillment": 37
+  },
+  "goodThings": [],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 38.3
+ },
+ {
+  "mood": {
+   "emotional": 52,
+   "motivation": 68,
+   "social": 87,
+   "physical": 39,
+   "fulfillment": 4
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 54.5
+ },
+ {
+  "mood": {
+   "emotional": 78,
+   "motivation": 34,
+   "social": 100,
+   "physical": 74,
+   "fulfillment": 85
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「散歩した、カフェ」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 72.1
+ },
+ {
+  "mood": {
+   "emotional": 90,
+   "motivation": 90,
+   "social": 40,
+   "physical": 43,
+   "fulfillment": 79
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「空がきれい、友達と話した」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 73.6
+ },
+ {
+  "mood": {
+   "emotional": 11,
+   "motivation": 45,
+   "social": 82,
+   "physical": 76,
+   "fulfillment": 29
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「朝ごはん」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 42.9
+ },
+ {
+  "mood": {
+   "emotional": 32,
+   "motivation": 23,
+   "social": 44,
+   "physical": 33,
+   "fulfillment": 87
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 40.5
+ },
+ {
+  "mood": {
+   "emotional": 27,
+   "motivation": 49,
+   "social": 85,
+   "physical": 89,
+   "fulfillment": 60
+  },
+  "goodThings": [],
+  "emotion": "焦燥・不満",
+  "feedback": "焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 55.3
+ },
+ {
+  "mood": {
+   "emotional": 92,
+   "motivation": 86,
+   "social": 95,
+   "physical": 20,
+   "fulfillment": 83
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「散歩した」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 82.6
+ },
+ {
+  "mood": {
+   "emotional": 89,
+   "motivation": 25,
+   "social": 68,
+   "physical": 49,
+   "fulfillment": 37
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 57
+ },
+ {
+  "mood": {
+   "emotional": 24,
+   "motivation": 38,
+   "social": 51,
+   "physical": 95,
+   "fulfillment": 11
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「空がきれい、友達と話した」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 38.1
+ },
+ {
+  "mood": {
+   "emotional": 35,
+   "motivation": 38,
+   "social": 5,
+   "physical": 50,
+   "fulfillment": 41
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「朝ごはん」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 32.2
+ },
+ {
+  "mood": {
+   "emotional": 95,
+   "motivation": 4,
+   "social": 98,
+   "physical": 83,
+   "fulfillment": 27
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "元気だが物足りない",
+  "feedback": "「a、b、c」いいですね。元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 61.5
+ },
+ {
+  "mood": {
+   "emotional": 58,
+   "motivation": 10,
+   "social": 35,
+   "physical": 15,
+   "fulfillment": 0
+  },
+  "goodThings": [],
+  "emotion": "停滞・モヤモヤ",
+  "feedback": "何もかもが止まっているように感じる時もあります。でも、止まっている時間も必要な時間です。",
+  "totalScore": 28.4
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 74,
+   "social": 16,
+   "physical": 20,
+   "fulfillment": 32
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「散歩した」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 36
+ },
+ {
+  "mood": {
+   "emotional": 85,
+   "motivation": 99,
+   "social": 81,
+   "physical": 15,
+   "fulfillment": 93
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「散歩した、カフェ」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 81.9
+ },
+ {
+  "mood": {
+   "emotional": 52,
+   "motivation": 97,
+   "social": 33,
+   "physical": 93,
+   "fulfillment": 76
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「空がきれい、友達と話した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 67.2
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 42,
+   "social": 64,
+   "physical": 79,
+   "fulfillment": 87
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「朝ごはん」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 45.4
+ },
+ {
+  "mood": {
+   "emotional": 14,
+   "motivation": 24,
+   "social": 8,
+   "physical": 42,
+   "fulfillment": 83
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「a、b、c」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 28.5
+ },
+ {
+  "mood": {
+   "emotional": 40,
+   "motivation": 15,
+   "social": 17,
+   "physical": 22,
+   "fulfillment": 100
+  },
+  "goodThings": [],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 36.3
+ },
+ {
+  "mood": {
+   "emotional": 11,
+   "motivation": 32,
+   "social": 52,
+   "physical": 37,
+   "fulfillment": 69
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 35.8
+ },
+ {
+  "mood": {
+   "emotional": 75,
+   "motivation": 4,
+   "social": 30,
+   "physical": 100,
+   "fulfillment": 42
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 45.8
+ },
+ {
+  "mood": {
+   "emotional": 18,
+   "motivation": 33,
+   "social": 71,
+   "physical": 49,
+   "fulfillment": 33
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「空がきれい、友達と話した」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 37.7
+ },
+ {
+  "mood": {
+   "emotional": 19,
+   "motivation": 75,
+   "social": 40,
+   "physical": 100,
+   "fulfillment": 20
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「朝ごはん」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 45.5
+ },
+ {
+  "mood": {
+   "emotional": 53,
+   "motivation": 76,
+   "social": 25,
+   "physical": 18,
+   "fulfillment": 36
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「a、b、c」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 47.1
+ },
+ {
+  "mood": {
+   "emotional": 69,
+   "motivation": 40,
+   "social": 9,
+   "physical": 54,
+   "fulfillment": 96
+  },
+  "goodThings": [],
+  "emotion": "リラックス・静穏",
+  "feedback": "ゆったりと心が落ち着いている時間、大切にしてくださいね。",
+  "totalScore": 52.3
+ },
+ {
+  "mood": {
+   "emotional": 28,
+   "motivation": 38,
+   "social": 26,
+   "physical": 24,
+   "fulfillment": 70
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「散歩した」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 36
+ },
+ {
+  "mood": {
+   "emotional": 98,
+   "motivation": 48,
+   "social": 7,
+   "physical": 98,
+   "fulfillment": 14
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 54.7
+ },
+ {
+  "mood": {
+   "emotional": 6,
+   "motivation": 49,
+   "social": 44,
+   "physical": 86,
+   "fulfillment": 18
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 34.2
+ },
+ {
+  "mood": {
+   "emotional": 40,
+   "motivation": 54,
+   "social": 30,
+   "physical": 65,
+   "fulfillment": 22
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「朝ごはん」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 41.3
+ },
+ {
+  "mood": {
+   "emotional": 67,
+   "motivation": 60,
+   "social": 53,
+   "physical": 20,
+   "fulfillment": 17
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「a、b、c」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 50.2
+ },
+ {
+  "mood": {
+   "emotional": 1,
+   "motivation": 52,
+   "social": 60,
+   "physical": 90,
+   "fulfillment": 18
+  },
+  "goodThings": [],
+  "emotion": "焦燥・不満",
+  "feedback": "焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 37
+ },
+ {
+  "mood": {
+   "emotional": 70,
+   "motivation": 53,
+   "social": 28,
+   "physical": 6,
+   "fulfillment": 57
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 49
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 99,
+   "social": 67,
+   "physical": 83,
+   "fulfillment": 4
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「散歩した、カフェ」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 53.7
+ },
+ {
+  "mood": {
+   "emotional": 42,
+   "motivation": 84,
+   "social": 100,
+   "physical": 28,
+   "fulfillment": 76
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「空がきれい、友達と話した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 67.8
+ },
+ {
+  "mood": {
+   "emotional": 59,
+   "motivation": 90,
+   "social": 95,
+   "physical": 17,
+   "fulfillment": 76
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「朝ごはん」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 72.3
+ },
+ {
+  "mood": {
+   "emotional": 71,
+   "motivation": 71,
+   "social": 52,
+   "physical": 0,
+   "fulfillment": 98
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "リラックス・静穏",
+  "feedback": "「a、b、c」いいですね。ゆったりと心が落ち着いている時間、大切にしてくださいね。",
+  "totalScore": 64.1
+ },
+ {
+  "mood": {
+   "emotional": 94,
+   "motivation": 69,
+   "social": 39,
+   "physical": 91,
+   "fulfillment": 44
+  },
+  "goodThings": [],
+  "emotion": "まずまず・平穏",
+  "feedback": "特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 69
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 8,
+   "social": 75,
+   "physical": 26,
+   "fulfillment": 19
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「散歩した」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 30
+ },
+ {
+  "mood": {
+   "emotional": 100,
+   "motivation": 6,
+   "social": 76,
+   "physical": 80,
+   "fulfillment": 22
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "元気だが物足りない",
+  "feedback": "「散歩した、カフェ」いいですね。元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 58
+ },
+ {
+  "mood": {
+   "emotional": 36,
+   "motivation": 77,
+   "social": 16,
+   "physical": 76,
+   "fulfillment": 16
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 43.3
+ },
+ {
+  "mood": {
+   "emotional": 61,
+   "motivation": 66,
+   "social": 77,
+   "physical": 61,
+   "fulfillment": 11
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「朝ごはん」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 58
+ },
+ {
+  "mood": {
+   "emotional": 43,
+   "motivation": 47,
+   "social": 26,
+   "physical": 11,
+   "fulfillment": 80
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「a、b、c」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 43
+ },
+ {
+  "mood": {
+   "emotional": 28,
+   "motivation": 43,
+   "social": 97,
+   "physical": 4,
+   "fulfillment": 88
+  },
+  "goodThings": [],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 52.1
+ },
+ {
+  "mood": {
+   "emotional": 43,
+   "motivation": 3,
+   "social": 9,
+   "physical": 36,
+   "fulfillment": 62
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "停滞・モヤモヤ",
+  "feedback": "「散歩した」いいですね。何もかもが止まっているように感じる時もあります。でも、止まっている時間も必要な時間です。",
+  "totalScore": 28.4
+ },
+ {
+  "mood": {
+   "emotional": 28,
+   "motivation": 93,
+   "social": 51,
+   "physical": 88,
+   "fulfillment": 32
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「散歩した、カフェ」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 55.5
+ },
+ {
+  "mood": {
+   "emotional": 75,
+   "motivation": 4,
+   "social": 3,
+   "physical": 64,
+   "fulfillment": 39
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「空がきれい、友達と話した」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 36.4
+ },
+ {
+  "mood": {
+   "emotional": 13,
+   "motivation": 51,
+   "social": 77,
+   "physical": 36,
+   "fulfillment": 78
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 47.3
+ },
+ {
+  "mood": {
+   "emotional": 94,
+   "motivation": 68,
+   "social": 45,
+   "physical": 70,
+   "fulfillment": 73
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「a、b、c」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 72.2
+ },
+ {
+  "mood": {
+   "emotional": 69,
+   "motivation": 97,
+   "social": 89,
+   "physical": 75,
+   "fulfillment": 56
+  },
+  "goodThings": [],
+  "emotion": "うれしい・充実・幸福",
+  "feedback": "今日はとても充実した一日でしたね。その輝きを忘れずに、明日もいい一日になりますように。",
+  "totalScore": 78.7
+ },
+ {
+  "mood": {
+   "emotional": 92,
+   "motivation": 92,
+   "social": 58,
+   "physical": 69,
+   "fulfillment": 74
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「散歩した」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 80.2
+ },
+ {
+  "mood": {
+   "emotional": 70,
+   "motivation": 9,
+   "social": 49,
+   "physical": 35,
+   "fulfillment": 35
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 41.8
+ },
+ {
+  "mood": {
+   "emotional": 20,
+   "motivation": 44,
+   "social": 65,
+   "physical": 18,
+   "fulfillment": 14
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「空がきれい、友達と話した」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 33.9
+ },
+ {
+  "mood": {
+   "emotional": 31,
+   "motivation": 79,
+   "social": 13,
+   "physical": 57,
+   "fulfillment": 59
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「朝ごはん」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 46.2
+ },
+ {
+  "mood": {
+   "emotional": 80,
+   "motivation": 13,
+   "social": 30,
+   "physical": 17,
+   "fulfillment": 33
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "気分は良いが無気力",
+  "feedback": "「a、b、c」いいですね。気持ちは悪くないのに体が動かない…そんな日もありますよ。ゆっくり休んでくださいね。",
+  "totalScore": 39.9
+ },
+ {
+  "mood": {
+   "emotional": 14,
+   "motivation": 58,
+   "social": 70,
+   "physical": 70,
+   "fulfillment": 94
+  },
+  "goodThings": [],
+  "emotion": "イライラ・怒り",
+  "feedback": "イライラする気持ち、我慢しなくていいですよ。怒りはあなたが何かを大切にしている証拠です。",
+  "totalScore": 53.8
+ },
+ {
+  "mood": {
+   "emotional": 14,
+   "motivation": 26,
+   "social": 46,
+   "physical": 84,
+   "fulfillment": 43
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 34.8
+ },
+ {
+  "mood": {
+   "emotional": 23,
+   "motivation": 22,
+   "social": 95,
+   "physical": 76,
+   "fulfillment": 55
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「散歩した、カフェ」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 47.3
+ },
+ {
+  "mood": {
+   "emotional": 29,
+   "motivation": 63,
+   "social": 32,
+   "physical": 63,
+   "fulfillment": 52
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 45
+ },
+ {
+  "mood": {
+   "emotional": 31,
+   "motivation": 30,
+   "social": 70,
+   "physical": 48,
+   "fulfillment": 77
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 47.1
+ },
+ {
+  "mood": {
+   "emotional": 46,
+   "motivation": 42,
+   "social": 61,
+   "physical": 49,
+   "fulfillment": 96
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「a、b、c」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 55.8
+ },
+ {
+  "mood": {
+   "emotional": 89,
+   "motivation": 11,
+   "social": 86,
+   "physical": 39,
+   "fulfillment": 43
+  },
+  "goodThings": [],
+  "emotion": "気分は良いが空虚",
+  "feedback": "気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 57
+ },
+ {
+  "mood": {
+   "emotional": 86,
+   "motivation": 20,
+   "social": 13,
+   "physical": 86,
+   "fulfillment": 28
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 46.2
+ },
+ {
+  "mood": {
+   "emotional": 89,
+   "motivation": 62,
+   "social": 2,
+   "physical": 27,
+   "fulfillment": 8
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した、カフェ」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 46.5
+ },
+ {
+  "mood": {
+   "emotional": 2,
+   "motivation": 90,
+   "social": 52,
+   "physical": 87,
+   "fulfillment": 58
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "イライラ・怒り",
+  "feedback": "「空がきれい、友達と話した」いいですね。イライラする気持ち、我慢しなくていいですよ。怒りはあなたが何かを大切にしている証拠です。",
+  "totalScore": 50.9
+ },
+ {
+  "mood": {
+   "emotional": 43,
+   "motivation": 59,
+   "social": 78,
+   "physical": 44,
+   "fulfillment": 99
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「朝ごはん」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 62.5
+ },
+ {
+  "mood": {
+   "emotional": 3,
+   "motivation": 98,
+   "social": 86,
+   "physical": 10,
+   "fulfillment": 11
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 45.2
+ },
+ {
+  "mood": {
+   "emotional": 65,
+   "motivation": 100,
+   "social": 89,
+   "physical": 82,
+   "fulfillment": 30
+  },
+  "goodThings": [],
+  "emotion": "活動的だが迷い",
+  "feedback": "動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 75
+ },
+ {
+  "mood": {
+   "emotional": 80,
+   "motivation": 17,
+   "social": 53,
+   "physical": 6,
+   "fulfillment": 59
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 48.3
+ },
+ {
+  "mood": {
+   "emotional": 41,
+   "motivation": 43,
+   "social": 17,
+   "physical": 38,
+   "fulfillment": 93
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "疲れているが満足",
+  "feedback": "「散歩した、カフェ」いいですね。体は疲れていても心は満たされている…そんな充実した疲労感は素敵です。ゆっくり休んでくださいね。",
+  "totalScore": 44.2
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 22,
+   "social": 16,
+   "physical": 73,
+   "fulfillment": 77
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 37.8
+ },
+ {
+  "mood": {
+   "emotional": 96,
+   "motivation": 40,
+   "social": 41,
+   "physical": 27,
+   "fulfillment": 52
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「朝ごはん」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 57.5
+ },
+ {
+  "mood": {
+   "emotional": 84,
+   "motivation": 62,
+   "social": 49,
+   "physical": 56,
+   "fulfillment": 1
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「a、b、c」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 56.3
+ },
+ {
+  "mood": {
+   "emotional": 2,
+   "motivation": 36,
+   "social": 55,
+   "physical": 34,
+   "fulfillment": 100
+  },
+  "goodThings": [],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 39
+ },
+ {
+  "mood": {
+   "emotional": 37,
+   "motivation": 33,
+   "social": 52,
+   "physical": 24,
+   "fulfillment": 98
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 46.8
+ },
+ {
+  "mood": {
+   "emotional": 57,
+   "motivation": 68,
+   "social": 27,
+   "physical": 40,
+   "fulfillment": 70
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した、カフェ」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 54
+ },
+ {
+  "mood": {
+   "emotional": 51,
+   "motivation": 31,
+   "social": 56,
+   "physical": 63,
+   "fulfillment": 23
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「空がきれい、友達と話した」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 44
+ },
+ {
+  "mood": {
+   "emotional": 99,
+   "motivation": 71,
+   "social": 20,
+   "physical": 32,
+   "fulfillment": 13
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「朝ごはん」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 56.6
+ },
+ {
+  "mood": {
+   "emotional": 20,
+   "motivation": 17,
+   "social": 9,
+   "physical": 32,
+   "fulfillment": 32
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "消耗・虚無",
+  "feedback": "「a、b、c」いいですね。今はとても辛い時期かもしれません。でも、この夜空のように、暗闇の中にも必ず光はあります。",
+  "totalScore": 20.1
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 80,
+   "social": 7,
+   "physical": 9,
+   "fulfillment": 28
+  },
+  "goodThings": [],
+  "emotion": "疲弊・無力感",
+  "feedback": "心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 33.1
+ },
+ {
+  "mood": {
+   "emotional": 72,
+   "motivation": 81,
+   "social": 71,
+   "physical": 18,
+   "fulfillment": 36
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「散歩した」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 63.2
+ },
+ {
+  "mood": {
+   "emotional": 98,
+   "motivation": 69,
+   "social": 40,
+   "physical": 93,
+   "fulfillment": 3
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「散歩した、カフェ」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 64.4
+ },
+ {
+  "mood": {
+   "emotional": 16,
+   "motivation": 37,
+   "social": 39,
+   "physical": 9,
+   "fulfillment": 76
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「空がきれい、友達と話した」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 34.2
+ },
+ {
+  "mood": {
+   "emotional": 71,
+   "motivation": 15,
+   "social": 42,
+   "physical": 100,
+   "fulfillment": 28
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "元気だが物足りない",
+  "feedback": "「朝ごはん」いいですね。元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 47.7
+ },
+ {
+  "mood": {
+   "emotional": 91,
+   "motivation": 18,
+   "social": 21,
+   "physical": 99,
+   "fulfillment": 13
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「a、b、c」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 47.9
+ },
+ {
+  "mood": {
+   "emotional": 7,
+   "motivation": 46,
+   "social": 57,
+   "physical": 62,
+   "fulfillment": 66
+  },
+  "goodThings": [],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 41.1
+ },
+ {
+  "mood": {
+   "emotional": 76,
+   "motivation": 6,
+   "social": 71,
+   "physical": 70,
+   "fulfillment": 68
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「散歩した」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 55.7
+ },
+ {
+  "mood": {
+   "emotional": 48,
+   "motivation": 21,
+   "social": 72,
+   "physical": 35,
+   "fulfillment": 88
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50.8
+ },
+ {
+  "mood": {
+   "emotional": 15,
+   "motivation": 55,
+   "social": 13,
+   "physical": 98,
+   "fulfillment": 99
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「空がきれい、友達と話した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 45.5
+ },
+ {
+  "mood": {
+   "emotional": 67,
+   "motivation": 51,
+   "social": 100,
+   "physical": 66,
+   "fulfillment": 51
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「朝ごはん」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 67.1
+ },
+ {
+  "mood": {
+   "emotional": 19,
+   "motivation": 28,
+   "social": 84,
+   "physical": 17,
+   "fulfillment": 34
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「a、b、c」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 36.3
+ },
+ {
+  "mood": {
+   "emotional": 83,
+   "motivation": 20,
+   "social": 11,
+   "physical": 31,
+   "fulfillment": 7
+  },
+  "goodThings": [],
+  "emotion": "気分は良いが無気力",
+  "feedback": "気持ちは悪くないのに体が動かない…そんな日もありますよ。ゆっくり休んでくださいね。",
+  "totalScore": 36.3
+ },
+ {
+  "mood": {
+   "emotional": 47,
+   "motivation": 68,
+   "social": 49,
+   "physical": 25,
+   "fulfillment": 72
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 54.2
+ },
+ {
+  "mood": {
+   "emotional": 77,
+   "motivation": 8,
+   "social": 25,
+   "physical": 0,
+   "fulfillment": 83
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した、カフェ」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 42.6
+ },
+ {
+  "mood": {
+   "emotional": 85,
+   "motivation": 95,
+   "social": 56,
+   "physical": 97,
+   "fulfillment": 16
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「空がきれい、友達と話した」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 72.6
+ },
+ {
+  "mood": {
+   "emotional": 20,
+   "motivation": 84,
+   "social": 97,
+   "physical": 4,
+   "fulfillment": 18
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 49.5
+ },
+ {
+  "mood": {
+   "emotional": 31,
+   "motivation": 51,
+   "social": 86,
+   "physical": 65,
+   "fulfillment": 85
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "イライラ・怒り",
+  "feedback": "「a、b、c」いいですね。イライラする気持ち、我慢しなくていいですよ。怒りはあなたが何かを大切にしている証拠です。",
+  "totalScore": 58.5
+ },
+ {
+  "mood": {
+   "emotional": 72,
+   "motivation": 82,
+   "social": 24,
+   "physical": 90,
+   "fulfillment": 96
+  },
+  "goodThings": [],
+  "emotion": "穏やか・安心",
+  "feedback": "穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 70.3
+ },
+ {
+  "mood": {
+   "emotional": 70,
+   "motivation": 12,
+   "social": 94,
+   "physical": 59,
+   "fulfillment": 15
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "元気だが物足りない",
+  "feedback": "「散歩した」いいですね。元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 50.9
+ },
+ {
+  "mood": {
+   "emotional": 35,
+   "motivation": 96,
+   "social": 93,
+   "physical": 72,
+   "fulfillment": 91
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "やる気はあるが不安定",
+  "feedback": "「散歩した、カフェ」いいですね。エネルギーはあるのに気持ちが揺れている…そんな時は深呼吸して、一つずつ進めていきましょう。",
+  "totalScore": 74
+ },
+ {
+  "mood": {
+   "emotional": 79,
+   "motivation": 69,
+   "social": 26,
+   "physical": 22,
+   "fulfillment": 61
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「空がきれい、友達と話した」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 57.5
+ },
+ {
+  "mood": {
+   "emotional": 65,
+   "motivation": 57,
+   "social": 61,
+   "physical": 4,
+   "fulfillment": 44
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「朝ごはん」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 53
+ },
+ {
+  "mood": {
+   "emotional": 32,
+   "motivation": 8,
+   "social": 50,
+   "physical": 46,
+   "fulfillment": 47
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「a、b、c」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 33.3
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 78,
+   "social": 45,
+   "physical": 8,
+   "fulfillment": 40
+  },
+  "goodThings": [],
+  "emotion": "疲弊・無力感",
+  "feedback": "心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 42.8
+ },
+ {
+  "mood": {
+   "emotional": 11,
+   "motivation": 38,
+   "social": 92,
+   "physical": 98,
+   "fulfillment": 16
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「散歩した」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 43.4
+ },
+ {
+  "mood": {
+   "emotional": 33,
+   "motivation": 30,
+   "social": 1,
+   "physical": 49,
+   "fulfillment": 83
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「散歩した、カフェ」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 35
+ },
+ {
+  "mood": {
+   "emotional": 28,
+   "motivation": 24,
+   "social": 67,
+   "physical": 68,
+   "fulfillment": 90
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「空がきれい、友達と話した」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 48.1
+ },
+ {
+  "mood": {
+   "emotional": 94,
+   "motivation": 15,
+   "social": 29,
+   "physical": 13,
+   "fulfillment": 67
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「朝ごはん」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 49.1
+ },
+ {
+  "mood": {
+   "emotional": 32,
+   "motivation": 4,
+   "social": 100,
+   "physical": 67,
+   "fulfillment": 44
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「a、b、c」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 43.9
+ },
+ {
+  "mood": {
+   "emotional": 13,
+   "motivation": 49,
+   "social": 34,
+   "physical": 50,
+   "fulfillment": 2
+  },
+  "goodThings": [],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 28.3
+ },
+ {
+  "mood": {
+   "emotional": 80,
+   "motivation": 11,
+   "social": 10,
+   "physical": 43,
+   "fulfillment": 73
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 44
+ },
+ {
+  "mood": {
+   "emotional": 80,
+   "motivation": 90,
+   "social": 38,
+   "physical": 19,
+   "fulfillment": 1
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した、カフェ」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 56.2
+ },
+ {
+  "mood": {
+   "emotional": 19,
+   "motivation": 89,
+   "social": 45,
+   "physical": 46,
+   "fulfillment": 84
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「空がきれい、友達と話した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 54.2
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 23,
+   "social": 98,
+   "physical": 32,
+   "fulfillment": 80
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 47.2
+ },
+ {
+  "mood": {
+   "emotional": 8,
+   "motivation": 73,
+   "social": 93,
+   "physical": 25,
+   "fulfillment": 43
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 48.2
+ },
+ {
+  "mood": {
+   "emotional": 3,
+   "motivation": 19,
+   "social": 9,
+   "physical": 31,
+   "fulfillment": 55
+  },
+  "goodThings": [],
+  "emotion": "疲弊・無力感",
+  "feedback": "心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 18.8
+ },
+ {
+  "mood": {
+   "emotional": 2,
+   "motivation": 11,
+   "social": 79,
+   "physical": 84,
+   "fulfillment": 43
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「散歩した」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 34
+ },
+ {
+  "mood": {
+   "emotional": 41,
+   "motivation": 32,
+   "social": 63,
+   "physical": 44,
+   "fulfillment": 72
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 48.1
+ },
+ {
+  "mood": {
+   "emotional": 78,
+   "motivation": 28,
+   "social": 80,
+   "physical": 29,
+   "fulfillment": 86
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 62.2
+ },
+ {
+  "mood": {
+   "emotional": 13,
+   "motivation": 56,
+   "social": 74,
+   "physical": 99,
+   "fulfillment": 87
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "イライラ・怒り",
+  "feedback": "「朝ごはん」いいですね。イライラする気持ち、我慢しなくていいですよ。怒りはあなたが何かを大切にしている証拠です。",
+  "totalScore": 55.7
+ },
+ {
+  "mood": {
+   "emotional": 62,
+   "motivation": 36,
+   "social": 8,
+   "physical": 3,
+   "fulfillment": 72
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「a、b、c」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 40.3
+ },
+ {
+  "mood": {
+   "emotional": 5,
+   "motivation": 68,
+   "social": 44,
+   "physical": 62,
+   "fulfillment": 65
+  },
+  "goodThings": [],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 43.3
+ },
+ {
+  "mood": {
+   "emotional": 29,
+   "motivation": 91,
+   "social": 38,
+   "physical": 38,
+   "fulfillment": 11
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 44.5
+ },
+ {
+  "mood": {
+   "emotional": 65,
+   "motivation": 99,
+   "social": 90,
+   "physical": 35,
+   "fulfillment": 41
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した、カフェ」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 71.9
+ },
+ {
+  "mood": {
+   "emotional": 68,
+   "motivation": 84,
+   "social": 73,
+   "physical": 89,
+   "fulfillment": 82
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "うれしい・充実・幸福",
+  "feedback": "「空がきれい、友達と話した」いいですね。今日はとても充実した一日でしたね。その輝きを忘れずに、明日もいい一日になりますように。",
+  "totalScore": 77.2
+ },
+ {
+  "mood": {
+   "emotional": 0,
+   "motivation": 7,
+   "social": 25,
+   "physical": 18,
+   "fulfillment": 66
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「朝ごはん」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 18.5
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 77,
+   "social": 84,
+   "physical": 45,
+   "fulfillment": 27
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 45.8
+ },
+ {
+  "mood": {
+   "emotional": 72,
+   "motivation": 11,
+   "social": 96,
+   "physical": 51,
+   "fulfillment": 25
+  },
+  "goodThings": [],
+  "emotion": "元気だが物足りない",
+  "feedback": "元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 52.4
+ },
+ {
+  "mood": {
+   "emotional": 43,
+   "motivation": 91,
+   "social": 73,
+   "physical": 83,
+   "fulfillment": 73
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "やる気はあるが不安定",
+  "feedback": "「散歩した」いいですね。エネルギーはあるのに気持ちが揺れている…そんな時は深呼吸して、一つずつ進めていきましょう。",
+  "totalScore": 69.5
+ },
+ {
+  "mood": {
+   "emotional": 54,
+   "motivation": 3,
+   "social": 30,
+   "physical": 100,
+   "fulfillment": 74
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 44.1
+ },
+ {
+  "mood": {
+   "emotional": 94,
+   "motivation": 98,
+   "social": 8,
+   "physical": 75,
+   "fulfillment": 41
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「空がきれい、友達と話した」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 68
+ },
+ {
+  "mood": {
+   "emotional": 2,
+   "motivation": 64,
+   "social": 73,
+   "physical": 64,
+   "fulfillment": 15
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「朝ごはん」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 39.9
+ },
+ {
+  "mood": {
+   "emotional": 14,
+   "motivation": 44,
+   "social": 53,
+   "physical": 48,
+   "fulfillment": 12
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「a、b、c」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 32.4
+ },
+ {
+  "mood": {
+   "emotional": 79,
+   "motivation": 22,
+   "social": 81,
+   "physical": 13,
+   "fulfillment": 99
+  },
+  "goodThings": [],
+  "emotion": "まずまず・平穏",
+  "feedback": "特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 61.6
+ },
+ {
+  "mood": {
+   "emotional": 40,
+   "motivation": 1,
+   "social": 15,
+   "physical": 70,
+   "fulfillment": 89
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 35.6
+ },
+ {
+  "mood": {
+   "emotional": 13,
+   "motivation": 26,
+   "social": 29,
+   "physical": 100,
+   "fulfillment": 16
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「散歩した、カフェ」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 28.6
+ },
+ {
+  "mood": {
+   "emotional": 1,
+   "motivation": 2,
+   "social": 62,
+   "physical": 3,
+   "fulfillment": 70
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「空がきれい、友達と話した」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 24
+ },
+ {
+  "mood": {
+   "emotional": 99,
+   "motivation": 89,
+   "social": 4,
+   "physical": 45,
+   "fulfillment": 97
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "リラックス・静穏",
+  "feedback": "「朝ごはん」いいですね。ゆったりと心が落ち着いている時間、大切にしてくださいね。",
+  "totalScore": 71.8
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 62,
+   "social": 93,
+   "physical": 57,
+   "fulfillment": 73
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "イライラ・怒り",
+  "feedback": "「a、b、c」いいですね。イライラする気持ち、我慢しなくていいですよ。怒りはあなたが何かを大切にしている証拠です。",
+  "totalScore": 52
+ },
+ {
+  "mood": {
+   "emotional": 45,
+   "motivation": 94,
+   "social": 34,
+   "physical": 100,
+   "fulfillment": 21
+  },
+  "goodThings": [],
+  "emotion": "活動的だが迷い",
+  "feedback": "動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 57
+ },
+ {
+  "mood": {
+   "emotional": 36,
+   "motivation": 67,
+   "social": 51,
+   "physical": 39,
+   "fulfillment": 15
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 43.9
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 99,
+   "social": 0,
+   "physical": 28,
+   "fulfillment": 38
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "疲れているが満足",
+  "feedback": "「散歩した、カフェ」いいですね。体は疲れていても心は満たされている…そんな充実した疲労感は素敵です。ゆっくり休んでくださいね。",
+  "totalScore": 53.1
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 24,
+   "social": 92,
+   "physical": 13,
+   "fulfillment": 43
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 52
+ },
+ {
+  "mood": {
+   "emotional": 20,
+   "motivation": 15,
+   "social": 60,
+   "physical": 95,
+   "fulfillment": 44
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「朝ごはん」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 37.9
+ },
+ {
+  "mood": {
+   "emotional": 28,
+   "motivation": 96,
+   "social": 71,
+   "physical": 78,
+   "fulfillment": 12
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「a、b、c」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 56.2
+ },
+ {
+  "mood": {
+   "emotional": 52,
+   "motivation": 16,
+   "social": 77,
+   "physical": 6,
+   "fulfillment": 39
+  },
+  "goodThings": [],
+  "emotion": "なんとなく不満",
+  "feedback": "はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 41.5
+ },
+ {
+  "mood": {
+   "emotional": 5,
+   "motivation": 75,
+   "social": 95,
+   "physical": 6,
+   "fulfillment": 72
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「散歩した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 50.7
+ },
+ {
+  "mood": {
+   "emotional": 18,
+   "motivation": 62,
+   "social": 15,
+   "physical": 17,
+   "fulfillment": 5
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「散歩した、カフェ」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 26.4
+ },
+ {
+  "mood": {
+   "emotional": 16,
+   "motivation": 53,
+   "social": 90,
+   "physical": 19,
+   "fulfillment": 91
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「空がきれい、友達と話した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 51.6
+ },
+ {
+  "mood": {
+   "emotional": 71,
+   "motivation": 82,
+   "social": 99,
+   "physical": 65,
+   "fulfillment": 14
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「朝ごはん」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 70.2
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 83,
+   "social": 98,
+   "physical": 72,
+   "fulfillment": 4
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「a、b、c」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 49.4
+ },
+ {
+  "mood": {
+   "emotional": 17,
+   "motivation": 39,
+   "social": 79,
+   "physical": 56,
+   "fulfillment": 15
+  },
+  "goodThings": [],
+  "emotion": "苛立ち・暴走",
+  "feedback": "気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 38.5
+ },
+ {
+  "mood": {
+   "emotional": 65,
+   "motivation": 44,
+   "social": 35,
+   "physical": 9,
+   "fulfillment": 64
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「散歩した」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 48
+ },
+ {
+  "mood": {
+   "emotional": 75,
+   "motivation": 61,
+   "social": 34,
+   "physical": 56,
+   "fulfillment": 34
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 55.3
+ },
+ {
+  "mood": {
+   "emotional": 58,
+   "motivation": 24,
+   "social": 35,
+   "physical": 52,
+   "fulfillment": 76
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 47
+ },
+ {
+  "mood": {
+   "emotional": 32,
+   "motivation": 53,
+   "social": 65,
+   "physical": 72,
+   "fulfillment": 78
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「朝ごはん」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 54.8
+ },
+ {
+  "mood": {
+   "emotional": 97,
+   "motivation": 70,
+   "social": 38,
+   "physical": 100,
+   "fulfillment": 22
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「a、b、c」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 67.5
+ },
+ {
+  "mood": {
+   "emotional": 2,
+   "motivation": 39,
+   "social": 73,
+   "physical": 46,
+   "fulfillment": 91
+  },
+  "goodThings": [],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 43.2
+ },
+ {
+  "mood": {
+   "emotional": 82,
+   "motivation": 98,
+   "social": 12,
+   "physical": 27,
+   "fulfillment": 28
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 58.4
+ },
+ {
+  "mood": {
+   "emotional": 86,
+   "motivation": 75,
+   "social": 79,
+   "physical": 45,
+   "fulfillment": 96
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「散歩した、カフェ」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 79.3
+ },
+ {
+  "mood": {
+   "emotional": 83,
+   "motivation": 13,
+   "social": 28,
+   "physical": 97,
+   "fulfillment": 36
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「空がきれい、友達と話した」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 48.9
+ },
+ {
+  "mood": {
+   "emotional": 11,
+   "motivation": 53,
+   "social": 56,
+   "physical": 64,
+   "fulfillment": 11
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「朝ごはん」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 35.8
+ },
+ {
+  "mood": {
+   "emotional": 50,
+   "motivation": 85,
+   "social": 45,
+   "physical": 85,
+   "fulfillment": 82
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「a、b、c」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 66.1
+ },
+ {
+  "mood": {
+   "emotional": 84,
+   "motivation": 52,
+   "social": 44,
+   "physical": 4,
+   "fulfillment": 77
+  },
+  "goodThings": [],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 59
+ },
+ {
+  "mood": {
+   "emotional": 15,
+   "motivation": 39,
+   "social": 5,
+   "physical": 24,
+   "fulfillment": 26
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "消耗・虚無",
+  "feedback": "「散歩した」いいですね。今はとても辛い時期かもしれません。でも、この夜空のように、暗闇の中にも必ず光はあります。",
+  "totalScore": 21.5
+ },
+ {
+  "mood": {
+   "emotional": 96,
+   "motivation": 71,
+   "social": 50,
+   "physical": 18,
+   "fulfillment": 80
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「散歩した、カフェ」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 70.4
+ },
+ {
+  "mood": {
+   "emotional": 23,
+   "motivation": 25,
+   "social": 8,
+   "physical": 21,
+   "fulfillment": 30
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "消耗・虚無",
+  "feedback": "「空がきれい、友達と話した」いいですね。今はとても辛い時期かもしれません。でも、この夜空のように、暗闇の中にも必ず光はあります。",
+  "totalScore": 21.3
+ },
+ {
+  "mood": {
+   "emotional": 97,
+   "motivation": 80,
+   "social": 10,
+   "physical": 68,
+   "fulfillment": 49
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「朝ごはん」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 65.2
+ },
+ {
+  "mood": {
+   "emotional": 44,
+   "motivation": 55,
+   "social": 98,
+   "physical": 37,
+   "fulfillment": 5
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "空回り・焦り",
+  "feedback": "「a、b、c」いいですね。頑張っているのに空回りしている感覚、辛いですよね。少し立ち止まって休むのも前進です。",
+  "totalScore": 51
+ },
+ {
+  "mood": {
+   "emotional": 71,
+   "motivation": 97,
+   "social": 40,
+   "physical": 21,
+   "fulfillment": 26
+  },
+  "goodThings": [],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 59.6
+ },
+ {
+  "mood": {
+   "emotional": 26,
+   "motivation": 99,
+   "social": 36,
+   "physical": 81,
+   "fulfillment": 62
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「散歩した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 57.2
+ },
+ {
+  "mood": {
+   "emotional": 60,
+   "motivation": 19,
+   "social": 79,
+   "physical": 92,
+   "fulfillment": 40
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "空回り・焦り",
+  "feedback": "「散歩した、カフェ」いいですね。頑張っているのに空回りしている感覚、辛いですよね。少し立ち止まって休むのも前進です。",
+  "totalScore": 53.8
+ },
+ {
+  "mood": {
+   "emotional": 42,
+   "motivation": 89,
+   "social": 65,
+   "physical": 61,
+   "fulfillment": 85
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「空がきれい、友達と話した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 66.7
+ },
+ {
+  "mood": {
+   "emotional": 1,
+   "motivation": 61,
+   "social": 40,
+   "physical": 36,
+   "fulfillment": 30
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 31.7
+ },
+ {
+  "mood": {
+   "emotional": 88,
+   "motivation": 31,
+   "social": 44,
+   "physical": 65,
+   "fulfillment": 44
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「a、b、c」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 56.1
+ },
+ {
+  "mood": {
+   "emotional": 43,
+   "motivation": 28,
+   "social": 91,
+   "physical": 9,
+   "fulfillment": 90
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 52.5
+ },
+ {
+  "mood": {
+   "emotional": 46,
+   "motivation": 58,
+   "social": 24,
+   "physical": 50,
+   "fulfillment": 5
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「散歩した」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 38.8
+ },
+ {
+  "mood": {
+   "emotional": 71,
+   "motivation": 1,
+   "social": 33,
+   "physical": 32,
+   "fulfillment": 36
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが無気力",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは悪くないのに体が動かない…そんな日もありますよ。ゆっくり休んでくださいね。",
+  "totalScore": 36.8
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 81,
+   "social": 51,
+   "physical": 69,
+   "fulfillment": 7
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 58.2
+ },
+ {
+  "mood": {
+   "emotional": 53,
+   "motivation": 43,
+   "social": 77,
+   "physical": 14,
+   "fulfillment": 83
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「朝ごはん」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 55.9
+ },
+ {
+  "mood": {
+   "emotional": 80,
+   "motivation": 53,
+   "social": 100,
+   "physical": 91,
+   "fulfillment": 50
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「a、b、c」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 73.9
+ },
+ {
+  "mood": {
+   "emotional": 38,
+   "motivation": 63,
+   "social": 96,
+   "physical": 22,
+   "fulfillment": 56
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 57
+ },
+ {
+  "mood": {
+   "emotional": 19,
+   "motivation": 63,
+   "social": 26,
+   "physical": 22,
+   "fulfillment": 14
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「散歩した」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 31
+ },
+ {
+  "mood": {
+   "emotional": 79,
+   "motivation": 29,
+   "social": 69,
+   "physical": 99,
+   "fulfillment": 38
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「散歩した、カフェ」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 60.4
+ },
+ {
+  "mood": {
+   "emotional": 44,
+   "motivation": 52,
+   "social": 16,
+   "physical": 89,
+   "fulfillment": 7
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「空がきれい、友達と話した」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 39.3
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 62,
+   "social": 67,
+   "physical": 100,
+   "fulfillment": 43
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「朝ごはん」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 55.6
+ },
+ {
+  "mood": {
+   "emotional": 78,
+   "motivation": 16,
+   "social": 95,
+   "physical": 62,
+   "fulfillment": 13
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "元気だが物足りない",
+  "feedback": "「a、b、c」いいですね。元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 54.6
+ },
+ {
+  "mood": {
+   "emotional": 77,
+   "motivation": 78,
+   "social": 97,
+   "physical": 71,
+   "fulfillment": 81
+  },
+  "goodThings": [],
+  "emotion": "うれしい・充実・幸福",
+  "feedback": "今日はとても充実した一日でしたね。その輝きを忘れずに、明日もいい一日になりますように。",
+  "totalScore": 81.3
+ },
+ {
+  "mood": {
+   "emotional": 56,
+   "motivation": 35,
+   "social": 97,
+   "physical": 9,
+   "fulfillment": 43
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 52.3
+ },
+ {
+  "mood": {
+   "emotional": 82,
+   "motivation": 7,
+   "social": 73,
+   "physical": 18,
+   "fulfillment": 32
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 47.6
+ },
+ {
+  "mood": {
+   "emotional": 45,
+   "motivation": 30,
+   "social": 61,
+   "physical": 38,
+   "fulfillment": 8
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「空がきれい、友達と話した」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 38.2
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 33,
+   "social": 52,
+   "physical": 7,
+   "fulfillment": 83
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「朝ごはん」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 51.6
+ },
+ {
+  "mood": {
+   "emotional": 53,
+   "motivation": 77,
+   "social": 37,
+   "physical": 75,
+   "fulfillment": 73
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「a、b、c」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 61
+ },
+ {
+  "mood": {
+   "emotional": 42,
+   "motivation": 57,
+   "social": 2,
+   "physical": 80,
+   "fulfillment": 91
+  },
+  "goodThings": [],
+  "emotion": "静かな充足",
+  "feedback": "派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 48.9
+ },
+ {
+  "mood": {
+   "emotional": 33,
+   "motivation": 71,
+   "social": 53,
+   "physical": 43,
+   "fulfillment": 82
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「散歩した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 54.9
+ },
+ {
+  "mood": {
+   "emotional": 89,
+   "motivation": 63,
+   "social": 73,
+   "physical": 11,
+   "fulfillment": 60
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 67.2
+ },
+ {
+  "mood": {
+   "emotional": 95,
+   "motivation": 24,
+   "social": 56,
+   "physical": 31,
+   "fulfillment": 27
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「空がきれい、友達と話した」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 52.9
+ },
+ {
+  "mood": {
+   "emotional": 31,
+   "motivation": 52,
+   "social": 7,
+   "physical": 7,
+   "fulfillment": 39
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「朝ごはん」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 30.2
+ },
+ {
+  "mood": {
+   "emotional": 94,
+   "motivation": 92,
+   "social": 84,
+   "physical": 26,
+   "fulfillment": 70
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「a、b、c」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 81.1
+ },
+ {
+  "mood": {
+   "emotional": 28,
+   "motivation": 13,
+   "social": 83,
+   "physical": 79,
+   "fulfillment": 46
+  },
+  "goodThings": [],
+  "emotion": "苛立ち・暴走",
+  "feedback": "気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 43.1
+ },
+ {
+  "mood": {
+   "emotional": 38,
+   "motivation": 98,
+   "social": 58,
+   "physical": 30,
+   "fulfillment": 97
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 65.1
+ },
+ {
+  "mood": {
+   "emotional": 49,
+   "motivation": 84,
+   "social": 77,
+   "physical": 31,
+   "fulfillment": 9
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 55.6
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 5,
+   "social": 86,
+   "physical": 5,
+   "fulfillment": 65
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 36.2
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 16,
+   "social": 98,
+   "physical": 6,
+   "fulfillment": 94
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 45.8
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 66,
+   "social": 41,
+   "physical": 2,
+   "fulfillment": 58
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「a、b、c」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 53.4
+ },
+ {
+  "mood": {
+   "emotional": 20,
+   "motivation": 50,
+   "social": 89,
+   "physical": 24,
+   "fulfillment": 70
+  },
+  "goodThings": [],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 49.2
+ },
+ {
+  "mood": {
+   "emotional": 47,
+   "motivation": 50,
+   "social": 69,
+   "physical": 18,
+   "fulfillment": 0
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「散歩した」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 42.2
+ },
+ {
+  "mood": {
+   "emotional": 8,
+   "motivation": 27,
+   "social": 73,
+   "physical": 83,
+   "fulfillment": 63
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「散歩した、カフェ」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 41.5
+ },
+ {
+  "mood": {
+   "emotional": 81,
+   "motivation": 83,
+   "social": 49,
+   "physical": 14,
+   "fulfillment": 28
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「空がきれい、友達と話した」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 60.5
+ },
+ {
+  "mood": {
+   "emotional": 42,
+   "motivation": 26,
+   "social": 63,
+   "physical": 36,
+   "fulfillment": 27
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「朝ごはん」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 39.4
+ },
+ {
+  "mood": {
+   "emotional": 72,
+   "motivation": 97,
+   "social": 2,
+   "physical": 52,
+   "fulfillment": 39
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "リラックス・静穏",
+  "feedback": "「a、b、c」いいですね。ゆったりと心が落ち着いている時間、大切にしてくださいね。",
+  "totalScore": 57.3
+ },
+ {
+  "mood": {
+   "emotional": 37,
+   "motivation": 20,
+   "social": 62,
+   "physical": 48,
+   "fulfillment": 5
+  },
+  "goodThings": [],
+  "emotion": "なんとなく不満",
+  "feedback": "はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 34.1
+ },
+ {
+  "mood": {
+   "emotional": 19,
+   "motivation": 94,
+   "social": 53,
+   "physical": 21,
+   "fulfillment": 21
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 45.1
+ },
+ {
+  "mood": {
+   "emotional": 83,
+   "motivation": 60,
+   "social": 48,
+   "physical": 44,
+   "fulfillment": 88
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「散歩した、カフェ」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 67.1
+ },
+ {
+  "mood": {
+   "emotional": 31,
+   "motivation": 50,
+   "social": 23,
+   "physical": 61,
+   "fulfillment": 73
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 43.5
+ },
+ {
+  "mood": {
+   "emotional": 32,
+   "motivation": 67,
+   "social": 100,
+   "physical": 13,
+   "fulfillment": 57
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 56.2
+ },
+ {
+  "mood": {
+   "emotional": 26,
+   "motivation": 38,
+   "social": 97,
+   "physical": 77,
+   "fulfillment": 71
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「a、b、c」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 55.1
+ },
+ {
+  "mood": {
+   "emotional": 72,
+   "motivation": 51,
+   "social": 29,
+   "physical": 1,
+   "fulfillment": 32
+  },
+  "goodThings": [],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 45
+ },
+ {
+  "mood": {
+   "emotional": 29,
+   "motivation": 67,
+   "social": 23,
+   "physical": 47,
+   "fulfillment": 6
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 35.7
+ },
+ {
+  "mood": {
+   "emotional": 29,
+   "motivation": 78,
+   "social": 47,
+   "physical": 83,
+   "fulfillment": 78
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「散歩した、カフェ」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 57.6
+ },
+ {
+  "mood": {
+   "emotional": 1,
+   "motivation": 14,
+   "social": 48,
+   "physical": 57,
+   "fulfillment": 56
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 27.5
+ },
+ {
+  "mood": {
+   "emotional": 86,
+   "motivation": 86,
+   "social": 42,
+   "physical": 52,
+   "fulfillment": 44
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「朝ごはん」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 67.5
+ },
+ {
+  "mood": {
+   "emotional": 23,
+   "motivation": 84,
+   "social": 61,
+   "physical": 74,
+   "fulfillment": 73
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "イライラ・怒り",
+  "feedback": "「a、b、c」いいですね。イライラする気持ち、我慢しなくていいですよ。怒りはあなたが何かを大切にしている証拠です。",
+  "totalScore": 58.5
+ },
+ {
+  "mood": {
+   "emotional": 83,
+   "motivation": 81,
+   "social": 47,
+   "physical": 6,
+   "fulfillment": 30
+  },
+  "goodThings": [],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 59.7
+ },
+ {
+  "mood": {
+   "emotional": 14,
+   "motivation": 89,
+   "social": 53,
+   "physical": 1,
+   "fulfillment": 65
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "燃え尽き・喪失感",
+  "feedback": "「散歩した」いいですね。頑張りすぎた後の空っぽ感、辛いですよね。何もしない時間も回復には必要です。",
+  "totalScore": 46.9
+ },
+ {
+  "mood": {
+   "emotional": 23,
+   "motivation": 35,
+   "social": 7,
+   "physical": 51,
+   "fulfillment": 94
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「散歩した、カフェ」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 36.3
+ },
+ {
+  "mood": {
+   "emotional": 57,
+   "motivation": 17,
+   "social": 13,
+   "physical": 29,
+   "fulfillment": 26
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "停滞・モヤモヤ",
+  "feedback": "「空がきれい、友達と話した」いいですね。何もかもが止まっているように感じる時もあります。でも、止まっている時間も必要な時間です。",
+  "totalScore": 30.8
+ },
+ {
+  "mood": {
+   "emotional": 14,
+   "motivation": 58,
+   "social": 78,
+   "physical": 70,
+   "fulfillment": 65
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「朝ごはん」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 51.1
+ },
+ {
+  "mood": {
+   "emotional": 45,
+   "motivation": 46,
+   "social": 69,
+   "physical": 86,
+   "fulfillment": 45
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「a、b、c」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 54.2
+ },
+ {
+  "mood": {
+   "emotional": 5,
+   "motivation": 39,
+   "social": 54,
+   "physical": 99,
+   "fulfillment": 55
+  },
+  "goodThings": [],
+  "emotion": "焦燥・不満",
+  "feedback": "焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 40.2
+ },
+ {
+  "mood": {
+   "emotional": 6,
+   "motivation": 2,
+   "social": 54,
+   "physical": 64,
+   "fulfillment": 76
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 30.9
+ },
+ {
+  "mood": {
+   "emotional": 76,
+   "motivation": 84,
+   "social": 15,
+   "physical": 92,
+   "fulfillment": 56
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「散歩した、カフェ」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 64.4
+ },
+ {
+  "mood": {
+   "emotional": 91,
+   "motivation": 31,
+   "social": 20,
+   "physical": 73,
+   "fulfillment": 54
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 54.5
+ },
+ {
+  "mood": {
+   "emotional": 59,
+   "motivation": 26,
+   "social": 68,
+   "physical": 90,
+   "fulfillment": 35
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "空回り・焦り",
+  "feedback": "「朝ごはん」いいですね。頑張っているのに空回りしている感覚、辛いですよね。少し立ち止まって休むのも前進です。",
+  "totalScore": 52.1
+ },
+ {
+  "mood": {
+   "emotional": 3,
+   "motivation": 63,
+   "social": 11,
+   "physical": 76,
+   "fulfillment": 88
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「a、b、c」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 39.7
+ },
+ {
+  "mood": {
+   "emotional": 67,
+   "motivation": 18,
+   "social": 29,
+   "physical": 80,
+   "fulfillment": 16
+  },
+  "goodThings": [],
+  "emotion": "気分は良いが空虚",
+  "feedback": "気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 40.8
+ },
+ {
+  "mood": {
+   "emotional": 52,
+   "motivation": 22,
+   "social": 24,
+   "physical": 23,
+   "fulfillment": 99
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「散歩した」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 43.1
+ },
+ {
+  "mood": {
+   "emotional": 69,
+   "motivation": 49,
+   "social": 96,
+   "physical": 26,
+   "fulfillment": 21
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 57.9
+ },
+ {
+  "mood": {
+   "emotional": 45,
+   "motivation": 35,
+   "social": 75,
+   "physical": 96,
+   "fulfillment": 53
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「空がきれい、友達と話した」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 54.8
+ },
+ {
+  "mood": {
+   "emotional": 44,
+   "motivation": 50,
+   "social": 80,
+   "physical": 82,
+   "fulfillment": 77
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「朝ごはん」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 61.5
+ },
+ {
+  "mood": {
+   "emotional": 97,
+   "motivation": 31,
+   "social": 60,
+   "physical": 37,
+   "fulfillment": 28
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「a、b、c」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 56.8
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 34,
+   "social": 99,
+   "physical": 51,
+   "fulfillment": 71
+  },
+  "goodThings": [],
+  "emotion": "焦燥・不満",
+  "feedback": "焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 45.3
+ },
+ {
+  "mood": {
+   "emotional": 21,
+   "motivation": 89,
+   "social": 22,
+   "physical": 27,
+   "fulfillment": 1
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "疲弊・無力感",
+  "feedback": "「散歩した」いいですね。心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 35.8
+ },
+ {
+  "mood": {
+   "emotional": 86,
+   "motivation": 9,
+   "social": 90,
+   "physical": 17,
+   "fulfillment": 6
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 48.7
+ },
+ {
+  "mood": {
+   "emotional": 47,
+   "motivation": 38,
+   "social": 88,
+   "physical": 74,
+   "fulfillment": 16
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "空回り・焦り",
+  "feedback": "「空がきれい、友達と話した」いいですね。頑張っているのに空回りしている感覚、辛いですよね。少し立ち止まって休むのも前進です。",
+  "totalScore": 51
+ },
+ {
+  "mood": {
+   "emotional": 49,
+   "motivation": 82,
+   "social": 14,
+   "physical": 91,
+   "fulfillment": 23
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「朝ごはん」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50.6
+ },
+ {
+  "mood": {
+   "emotional": 94,
+   "motivation": 16,
+   "social": 6,
+   "physical": 15,
+   "fulfillment": 9
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "気分は良いが無気力",
+  "feedback": "「a、b、c」いいですね。気持ちは悪くないのに体が動かない…そんな日もありますよ。ゆっくり休んでくださいね。",
+  "totalScore": 36.3
+ },
+ {
+  "mood": {
+   "emotional": 27,
+   "motivation": 77,
+   "social": 6,
+   "physical": 85,
+   "fulfillment": 13
+  },
+  "goodThings": [],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 39
+ },
+ {
+  "mood": {
+   "emotional": 49,
+   "motivation": 81,
+   "social": 39,
+   "physical": 75,
+   "fulfillment": 53
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 58.2
+ },
+ {
+  "mood": {
+   "emotional": 0,
+   "motivation": 50,
+   "social": 96,
+   "physical": 30,
+   "fulfillment": 91
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「散歩した、カフェ」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 48.4
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 92,
+   "social": 6,
+   "physical": 66,
+   "fulfillment": 30
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 41.9
+ },
+ {
+  "mood": {
+   "emotional": 61,
+   "motivation": 63,
+   "social": 80,
+   "physical": 78,
+   "fulfillment": 61
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「朝ごはん」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 67
+ },
+ {
+  "mood": {
+   "emotional": 20,
+   "motivation": 69,
+   "social": 34,
+   "physical": 72,
+   "fulfillment": 28
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 41.5
+ },
+ {
+  "mood": {
+   "emotional": 14,
+   "motivation": 15,
+   "social": 11,
+   "physical": 50,
+   "fulfillment": 56
+  },
+  "goodThings": [],
+  "emotion": "疲弊・無力感",
+  "feedback": "心も体もお疲れですね。無理しなくていいですよ。休むことも大切な仕事です。",
+  "totalScore": 23.6
+ },
+ {
+  "mood": {
+   "emotional": 36,
+   "motivation": 8,
+   "social": 48,
+   "physical": 33,
+   "fulfillment": 52
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「散歩した」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 33.5
+ },
+ {
+  "mood": {
+   "emotional": 69,
+   "motivation": 42,
+   "social": 24,
+   "physical": 54,
+   "fulfillment": 71
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 52.1
+ },
+ {
+  "mood": {
+   "emotional": 87,
+   "motivation": 9,
+   "social": 2,
+   "physical": 75,
+   "fulfillment": 77
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 47.8
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 4,
+   "social": 51,
+   "physical": 92,
+   "fulfillment": 3
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「朝ごはん」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 22.1
+ },
+ {
+  "mood": {
+   "emotional": 59,
+   "motivation": 47,
+   "social": 42,
+   "physical": 51,
+   "fulfillment": 47
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 50
+ },
+ {
+  "mood": {
+   "emotional": 48,
+   "motivation": 57,
+   "social": 30,
+   "physical": 37,
+   "fulfillment": 6
+  },
+  "goodThings": [],
+  "emotion": "なんとなく不満",
+  "feedback": "はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 39.3
+ },
+ {
+  "mood": {
+   "emotional": 45,
+   "motivation": 31,
+   "social": 5,
+   "physical": 45,
+   "fulfillment": 18
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "停滞・モヤモヤ",
+  "feedback": "「散歩した」いいですね。何もかもが止まっているように感じる時もあります。でも、止まっている時間も必要な時間です。",
+  "totalScore": 29.5
+ },
+ {
+  "mood": {
+   "emotional": 35,
+   "motivation": 24,
+   "social": 56,
+   "physical": 46,
+   "fulfillment": 31
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「散歩した、カフェ」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 37
+ },
+ {
+  "mood": {
+   "emotional": 65,
+   "motivation": 47,
+   "social": 90,
+   "physical": 65,
+   "fulfillment": 90
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "やる気はあるが不安定",
+  "feedback": "「空がきれい、友達と話した」いいですね。エネルギーはあるのに気持ちが揺れている…そんな時は深呼吸して、一つずつ進めていきましょう。",
+  "totalScore": 69.3
+ },
+ {
+  "mood": {
+   "emotional": 18,
+   "motivation": 32,
+   "social": 57,
+   "physical": 62,
+   "fulfillment": 64
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 40.6
+ },
+ {
+  "mood": {
+   "emotional": 15,
+   "motivation": 62,
+   "social": 86,
+   "physical": 25,
+   "fulfillment": 16
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 42.1
+ },
+ {
+  "mood": {
+   "emotional": 52,
+   "motivation": 46,
+   "social": 59,
+   "physical": 67,
+   "fulfillment": 45
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 52.4
+ },
+ {
+  "mood": {
+   "emotional": 30,
+   "motivation": 70,
+   "social": 68,
+   "physical": 9,
+   "fulfillment": 29
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 45.4
+ },
+ {
+  "mood": {
+   "emotional": 51,
+   "motivation": 64,
+   "social": 14,
+   "physical": 67,
+   "fulfillment": 8
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 42
+ },
+ {
+  "mood": {
+   "emotional": 81,
+   "motivation": 6,
+   "social": 6,
+   "physical": 72,
+   "fulfillment": 30
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「空がきれい、友達と話した」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 38.7
+ },
+ {
+  "mood": {
+   "emotional": 49,
+   "motivation": 10,
+   "social": 23,
+   "physical": 62,
+   "fulfillment": 28
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「朝ごはん」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 32.2
+ },
+ {
+  "mood": {
+   "emotional": 75,
+   "motivation": 81,
+   "social": 76,
+   "physical": 23,
+   "fulfillment": 67
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "穏やか・安心",
+  "feedback": "「a、b、c」いいですね。穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 70.3
+ },
+ {
+  "mood": {
+   "emotional": 39,
+   "motivation": 63,
+   "social": 8,
+   "physical": 14,
+   "fulfillment": 34
+  },
+  "goodThings": [],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 35.6
+ },
+ {
+  "mood": {
+   "emotional": 16,
+   "motivation": 13,
+   "social": 44,
+   "physical": 99,
+   "fulfillment": 35
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「散歩した」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 32
+ },
+ {
+  "mood": {
+   "emotional": 72,
+   "motivation": 64,
+   "social": 13,
+   "physical": 19,
+   "fulfillment": 27
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「散歩した、カフェ」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 46.1
+ },
+ {
+  "mood": {
+   "emotional": 35,
+   "motivation": 89,
+   "social": 17,
+   "physical": 88,
+   "fulfillment": 74
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「空がきれい、友達と話した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 56.1
+ },
+ {
+  "mood": {
+   "emotional": 7,
+   "motivation": 84,
+   "social": 31,
+   "physical": 88,
+   "fulfillment": 30
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 42.6
+ },
+ {
+  "mood": {
+   "emotional": 56,
+   "motivation": 23,
+   "social": 36,
+   "physical": 50,
+   "fulfillment": 52
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 42.6
+ },
+ {
+  "mood": {
+   "emotional": 82,
+   "motivation": 55,
+   "social": 19,
+   "physical": 57,
+   "fulfillment": 7
+  },
+  "goodThings": [],
+  "emotion": "気分は良いが空虚",
+  "feedback": "気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 48.9
+ },
+ {
+  "mood": {
+   "emotional": 5,
+   "motivation": 19,
+   "social": 48,
+   "physical": 68,
+   "fulfillment": 24
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「散歩した」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 26.3
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 67,
+   "social": 99,
+   "physical": 90,
+   "fulfillment": 88
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "イライラ・怒り",
+  "feedback": "「散歩した、カフェ」いいですね。イライラする気持ち、我慢しなくていいですよ。怒りはあなたが何かを大切にしている証拠です。",
+  "totalScore": 66.3
+ },
+ {
+  "mood": {
+   "emotional": 53,
+   "motivation": 59,
+   "social": 28,
+   "physical": 46,
+   "fulfillment": 87
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「空がきれい、友達と話した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 53.9
+ },
+ {
+  "mood": {
+   "emotional": 62,
+   "motivation": 29,
+   "social": 28,
+   "physical": 9,
+   "fulfillment": 58
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「朝ごはん」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 41.1
+ },
+ {
+  "mood": {
+   "emotional": 40,
+   "motivation": 18,
+   "social": 17,
+   "physical": 49,
+   "fulfillment": 59
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「a、b、c」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 33.7
+ },
+ {
+  "mood": {
+   "emotional": 81,
+   "motivation": 53,
+   "social": 60,
+   "physical": 49,
+   "fulfillment": 87
+  },
+  "goodThings": [],
+  "emotion": "穏やか・安心",
+  "feedback": "穏やかな気持ちで過ごせているのは素敵です。そのままのペースで大丈夫ですよ。",
+  "totalScore": 67.5
+ },
+ {
+  "mood": {
+   "emotional": 33,
+   "motivation": 88,
+   "social": 43,
+   "physical": 72,
+   "fulfillment": 86
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「散歩した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 60.6
+ },
+ {
+  "mood": {
+   "emotional": 19,
+   "motivation": 11,
+   "social": 26,
+   "physical": 94,
+   "fulfillment": 73
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した、カフェ」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 34
+ },
+ {
+  "mood": {
+   "emotional": 1,
+   "motivation": 92,
+   "social": 67,
+   "physical": 18,
+   "fulfillment": 93
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「空がきれい、友達と話した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 52.5
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 78,
+   "social": 69,
+   "physical": 7,
+   "fulfillment": 27
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 44.7
+ },
+ {
+  "mood": {
+   "emotional": 46,
+   "motivation": 52,
+   "social": 82,
+   "physical": 6,
+   "fulfillment": 54
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 51.9
+ },
+ {
+  "mood": {
+   "emotional": 15,
+   "motivation": 76,
+   "social": 50,
+   "physical": 22,
+   "fulfillment": 6
+  },
+  "goodThings": [],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 36.6
+ },
+ {
+  "mood": {
+   "emotional": 92,
+   "motivation": 50,
+   "social": 85,
+   "physical": 40,
+   "fulfillment": 23
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「散歩した」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 64.6
+ },
+ {
+  "mood": {
+   "emotional": 65,
+   "motivation": 36,
+   "social": 52,
+   "physical": 42,
+   "fulfillment": 12
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "なんとなく不満",
+  "feedback": "「散歩した、カフェ」いいですね。はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 44.9
+ },
+ {
+  "mood": {
+   "emotional": 54,
+   "motivation": 80,
+   "social": 20,
+   "physical": 7,
+   "fulfillment": 94
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "疲れているが満足",
+  "feedback": "「空がきれい、友達と話した」いいですね。体は疲れていても心は満たされている…そんな充実した疲労感は素敵です。ゆっくり休んでくださいね。",
+  "totalScore": 55
+ },
+ {
+  "mood": {
+   "emotional": 41,
+   "motivation": 19,
+   "social": 44,
+   "physical": 35,
+   "fulfillment": 100
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「朝ごはん」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 44.3
+ },
+ {
+  "mood": {
+   "emotional": 14,
+   "motivation": 6,
+   "social": 17,
+   "physical": 11,
+   "fulfillment": 19
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "消耗・虚無",
+  "feedback": "「a、b、c」いいですね。今はとても辛い時期かもしれません。でも、この夜空のように、暗闇の中にも必ず光はあります。",
+  "totalScore": 13.1
+ },
+ {
+  "mood": {
+   "emotional": 51,
+   "motivation": 83,
+   "social": 31,
+   "physical": 40,
+   "fulfillment": 95
+  },
+  "goodThings": [],
+  "emotion": "静かな充足",
+  "feedback": "派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 60.5
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 95,
+   "social": 72,
+   "physical": 8,
+   "fulfillment": 59
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 58
+ },
+ {
+  "mood": {
+   "emotional": 6,
+   "motivation": 9,
+   "social": 83,
+   "physical": 91,
+   "fulfillment": 29
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 34.1
+ },
+ {
+  "mood": {
+   "emotional": 48,
+   "motivation": 37,
+   "social": 93,
+   "physical": 4,
+   "fulfillment": 84
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 55.3
+ },
+ {
+  "mood": {
+   "emotional": 80,
+   "motivation": 1,
+   "social": 92,
+   "physical": 46,
+   "fulfillment": 32
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "元気だが物足りない",
+  "feedback": "「朝ごはん」いいですね。元気いっぱいなのに、どこか満たされない気持ちがあるのかもしれません。新しい挑戦が良い刺激になるかも。",
+  "totalScore": 52.1
+ },
+ {
+  "mood": {
+   "emotional": 64,
+   "motivation": 97,
+   "social": 23,
+   "physical": 85,
+   "fulfillment": 31
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「a、b、c」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 61.2
+ },
+ {
+  "mood": {
+   "emotional": 13,
+   "motivation": 59,
+   "social": 50,
+   "physical": 28,
+   "fulfillment": 9
+  },
+  "goodThings": [],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 32.8
+ },
+ {
+  "mood": {
+   "emotional": 26,
+   "motivation": 19,
+   "social": 98,
+   "physical": 25,
+   "fulfillment": 24
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「散歩した」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 38.3
+ },
+ {
+  "mood": {
+   "emotional": 49,
+   "motivation": 66,
+   "social": 81,
+   "physical": 37,
+   "fulfillment": 26
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 55
+ },
+ {
+  "mood": {
+   "emotional": 20,
+   "motivation": 91,
+   "social": 55,
+   "physical": 91,
+   "fulfillment": 63
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "イライラ・怒り",
+  "feedback": "「空がきれい、友達と話した」いいですね。イライラする気持ち、我慢しなくていいですよ。怒りはあなたが何かを大切にしている証拠です。",
+  "totalScore": 58.3
+ },
+ {
+  "mood": {
+   "emotional": 36,
+   "motivation": 50,
+   "social": 20,
+   "physical": 90,
+   "fulfillment": 58
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「朝ごはん」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 45
+ },
+ {
+  "mood": {
+   "emotional": 53,
+   "motivation": 93,
+   "social": 24,
+   "physical": 56,
+   "fulfillment": 81
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「a、b、c」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 61.7
+ },
+ {
+  "mood": {
+   "emotional": 95,
+   "motivation": 75,
+   "social": 10,
+   "physical": 99,
+   "fulfillment": 38
+  },
+  "goodThings": [],
+  "emotion": "まずまず・平穏",
+  "feedback": "特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 64.9
+ },
+ {
+  "mood": {
+   "emotional": 23,
+   "motivation": 63,
+   "social": 28,
+   "physical": 91,
+   "fulfillment": 53
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 45.3
+ },
+ {
+  "mood": {
+   "emotional": 27,
+   "motivation": 27,
+   "social": 49,
+   "physical": 70,
+   "fulfillment": 8
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「散歩した、カフェ」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 32.9
+ },
+ {
+  "mood": {
+   "emotional": 12,
+   "motivation": 10,
+   "social": 81,
+   "physical": 51,
+   "fulfillment": 87
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「空がきれい、友達と話した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 40.4
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 26,
+   "social": 63,
+   "physical": 100,
+   "fulfillment": 1
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「朝ごはん」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 30.5
+ },
+ {
+  "mood": {
+   "emotional": 91,
+   "motivation": 56,
+   "social": 69,
+   "physical": 20,
+   "fulfillment": 37
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「a、b、c」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 62.6
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 1,
+   "social": 83,
+   "physical": 21,
+   "fulfillment": 30
+  },
+  "goodThings": [],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 30.1
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 91,
+   "social": 6,
+   "physical": 7,
+   "fulfillment": 60
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "疲れているが満足",
+  "feedback": "「散歩した」いいですね。体は疲れていても心は満たされている…そんな充実した疲労感は素敵です。ゆっくり休んでくださいね。",
+  "totalScore": 43.9
+ },
+ {
+  "mood": {
+   "emotional": 39,
+   "motivation": 75,
+   "social": 55,
+   "physical": 7,
+   "fulfillment": 75
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "疲れているが満足",
+  "feedback": "「散歩した、カフェ」いいですね。体は疲れていても心は満たされている…そんな充実した疲労感は素敵です。ゆっくり休んでくださいね。",
+  "totalScore": 53.4
+ },
+ {
+  "mood": {
+   "emotional": 95,
+   "motivation": 85,
+   "social": 10,
+   "physical": 64,
+   "fulfillment": 11
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「空がきれい、友達と話した」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 59.8
+ },
+ {
+  "mood": {
+   "emotional": 3,
+   "motivation": 58,
+   "social": 46,
+   "physical": 51,
+   "fulfillment": 76
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「朝ごはん」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 41.1
+ },
+ {
+  "mood": {
+   "emotional": 32,
+   "motivation": 63,
+   "social": 70,
+   "physical": 30,
+   "fulfillment": 64
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 52
+ },
+ {
+  "mood": {
+   "emotional": 2,
+   "motivation": 79,
+   "social": 93,
+   "physical": 72,
+   "fulfillment": 9
+  },
+  "goodThings": [],
+  "emotion": "焦燥・不満",
+  "feedback": "焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 47.5
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 78,
+   "social": 54,
+   "physical": 21,
+   "fulfillment": 27
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「散歩した」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 43.9
+ },
+ {
+  "mood": {
+   "emotional": 60,
+   "motivation": 56,
+   "social": 61,
+   "physical": 70,
+   "fulfillment": 89
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した、カフェ」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 64.6
+ },
+ {
+  "mood": {
+   "emotional": 32,
+   "motivation": 79,
+   "social": 21,
+   "physical": 58,
+   "fulfillment": 77
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "切なさ・寂しさ",
+  "feedback": "「空がきれい、友達と話した」いいですね。切ない気持ちは、あなたが誰かや何かを大切に思っている証。その優しさを忘れないでください。",
+  "totalScore": 50.9
+ },
+ {
+  "mood": {
+   "emotional": 29,
+   "motivation": 32,
+   "social": 15,
+   "physical": 83,
+   "fulfillment": 25
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「朝ごはん」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 31.8
+ },
+ {
+  "mood": {
+   "emotional": 15,
+   "motivation": 68,
+   "social": 66,
+   "physical": 6,
+   "fulfillment": 25
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「a、b、c」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 39.1
+ },
+ {
+  "mood": {
+   "emotional": 47,
+   "motivation": 58,
+   "social": 13,
+   "physical": 84,
+   "fulfillment": 16
+  },
+  "goodThings": [],
+  "emotion": "普通・平穏",
+  "feedback": "特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 42
+ },
+ {
+  "mood": {
+   "emotional": 48,
+   "motivation": 48,
+   "social": 24,
+   "physical": 37,
+   "fulfillment": 46
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「散歩した」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 41.8
+ },
+ {
+  "mood": {
+   "emotional": 83,
+   "motivation": 41,
+   "social": 37,
+   "physical": 72,
+   "fulfillment": 14
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「散歩した、カフェ」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 51.9
+ },
+ {
+  "mood": {
+   "emotional": 78,
+   "motivation": 36,
+   "social": 19,
+   "physical": 7,
+   "fulfillment": 89
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「空がきれい、友達と話した」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 50.3
+ },
+ {
+  "mood": {
+   "emotional": 30,
+   "motivation": 28,
+   "social": 62,
+   "physical": 48,
+   "fulfillment": 33
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「朝ごはん」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 38.2
+ },
+ {
+  "mood": {
+   "emotional": 70,
+   "motivation": 89,
+   "social": 3,
+   "physical": 32,
+   "fulfillment": 43
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "「a、b、c」いいですね。のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 53.5
+ },
+ {
+  "mood": {
+   "emotional": 98,
+   "motivation": 88,
+   "social": 4,
+   "physical": 12,
+   "fulfillment": 14
+  },
+  "goodThings": [],
+  "emotion": "のんびり・ゆったり",
+  "feedback": "のんびり過ごせる日もあっていいですよね。自分のペースで大丈夫。",
+  "totalScore": 55.5
+ },
+ {
+  "mood": {
+   "emotional": 46,
+   "motivation": 95,
+   "social": 56,
+   "physical": 89,
+   "fulfillment": 38
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "やる気はあるが不安定",
+  "feedback": "「散歩した」いいですね。エネルギーはあるのに気持ちが揺れている…そんな時は深呼吸して、一つずつ進めていきましょう。",
+  "totalScore": 63.4
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 88,
+   "social": 67,
+   "physical": 10,
+   "fulfillment": 60
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した、カフェ」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 65.2
+ },
+ {
+  "mood": {
+   "emotional": 84,
+   "motivation": 23,
+   "social": 70,
+   "physical": 31,
+   "fulfillment": 29
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "気分は良いが空虚",
+  "feedback": "「空がきれい、友達と話した」いいですね。気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 52.4
+ },
+ {
+  "mood": {
+   "emotional": 93,
+   "motivation": 93,
+   "social": 50,
+   "physical": 52,
+   "fulfillment": 33
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「朝ごはん」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 71.3
+ },
+ {
+  "mood": {
+   "emotional": 46,
+   "motivation": 79,
+   "social": 21,
+   "physical": 23,
+   "fulfillment": 6
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "無気力・ぼんやり",
+  "feedback": "「a、b、c」いいですね。ぼんやりする日もあります。無理せず、ただ流れに身を任せるのも悪くないですよ。",
+  "totalScore": 40.9
+ },
+ {
+  "mood": {
+   "emotional": 66,
+   "motivation": 22,
+   "social": 68,
+   "physical": 20,
+   "fulfillment": 24
+  },
+  "goodThings": [],
+  "emotion": "なんとなく不満",
+  "feedback": "はっきりしないモヤモヤ、言葉にしにくいですよね。自分の気持ちに耳を傾けてみてください。",
+  "totalScore": 44.5
+ },
+ {
+  "mood": {
+   "emotional": 37,
+   "motivation": 60,
+   "social": 16,
+   "physical": 80,
+   "fulfillment": 94
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 51.4
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 71,
+   "social": 100,
+   "physical": 58,
+   "fulfillment": 4
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「散歩した、カフェ」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 54.4
+ },
+ {
+  "mood": {
+   "emotional": 7,
+   "motivation": 49,
+   "social": 86,
+   "physical": 76,
+   "fulfillment": 52
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「空がきれい、友達と話した」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 46.9
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 67,
+   "social": 55,
+   "physical": 90,
+   "fulfillment": 22
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "活動的だが迷い",
+  "feedback": "「朝ごはん」いいですね。動けているのに方向が定まらない感じ、もどかしいですよね。焦らなくても答えは見つかります。",
+  "totalScore": 50.3
+ },
+ {
+  "mood": {
+   "emotional": 4,
+   "motivation": 27,
+   "social": 94,
+   "physical": 50,
+   "fulfillment": 36
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「a、b、c」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 37.2
+ },
+ {
+  "mood": {
+   "emotional": 54,
+   "motivation": 27,
+   "social": 64,
+   "physical": 86,
+   "fulfillment": 12
+  },
+  "goodThings": [],
+  "emotion": "空回り・焦り",
+  "feedback": "頑張っているのに空回りしている感覚、辛いですよね。少し立ち止まって休むのも前進です。",
+  "totalScore": 46.2
+ },
+ {
+  "mood": {
+   "emotional": 21,
+   "motivation": 55,
+   "social": 86,
+   "physical": 91,
+   "fulfillment": 2
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "苛立ち・暴走",
+  "feedback": "「散歩した」いいですね。気持ちが収まらない時は、無理に抑えなくても大丈夫。安全な方法で発散してくださいね。",
+  "totalScore": 46.7
+ },
+ {
+  "mood": {
+   "emotional": 75,
+   "motivation": 27,
+   "social": 100,
+   "physical": 7,
+   "fulfillment": 49
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "まずまず・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別ではなくても、穏やかに過ごせた今日は素敵な一日です。",
+  "totalScore": 57.3
+ },
+ {
+  "mood": {
+   "emotional": 25,
+   "motivation": 66,
+   "social": 11,
+   "physical": 27,
+   "fulfillment": 96
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "燃え尽き・喪失感",
+  "feedback": "「空がきれい、友達と話した」いいですね。頑張りすぎた後の空っぽ感、辛いですよね。何もしない時間も回復には必要です。",
+  "totalScore": 43.3
+ },
+ {
+  "mood": {
+   "emotional": 22,
+   "motivation": 63,
+   "social": 32,
+   "physical": 84,
+   "fulfillment": 8
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "落ち込み・悲しみ",
+  "feedback": "「朝ごはん」いいですね。少し辛い気持ちなのかもしれません。大丈夫、いつか必ず前に進めます。今日はゆっくり過ごしてください。",
+  "totalScore": 38.4
+ },
+ {
+  "mood": {
+   "emotional": 91,
+   "motivation": 0,
+   "social": 12,
+   "physical": 44,
+   "fulfillment": 46
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "気分は良いが無気力",
+  "feedback": "「a、b、c」いいですね。気持ちは悪くないのに体が動かない…そんな日もありますよ。ゆっくり休んでくださいね。",
+  "totalScore": 41
+ },
+ {
+  "mood": {
+   "emotional": 21,
+   "motivation": 8,
+   "social": 45,
+   "physical": 71,
+   "fulfillment": 25
+  },
+  "goodThings": [],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 28.2
+ },
+ {
+  "mood": {
+   "emotional": 34,
+   "motivation": 88,
+   "social": 18,
+   "physical": 72,
+   "fulfillment": 55
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "静かな充足",
+  "feedback": "「散歩した」いいですね。派手さはなくても、心の中に静かな満足感がある。それはとても豊かなことです。",
+  "totalScore": 51.3
+ },
+ {
+  "mood": {
+   "emotional": 37,
+   "motivation": 70,
+   "social": 35,
+   "physical": 95,
+   "fulfillment": 17
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した、カフェ」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 47.7
+ },
+ {
+  "mood": {
+   "emotional": 17,
+   "motivation": 3,
+   "social": 59,
+   "physical": 61,
+   "fulfillment": 9
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「空がきれい、友達と話した」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 25.1
+ },
+ {
+  "mood": {
+   "emotional": 19,
+   "motivation": 47,
+   "social": 79,
+   "physical": 72,
+   "fulfillment": 40
+  },
+  "goodThings": [
+   "　朝ごはん　",
+   "　"
+  ],
+  "emotion": "焦燥・不満",
+  "feedback": "「朝ごはん」いいですね。焦る気持ちと不満が重なると辛いですよね。少しだけ深呼吸して、今の自分を認めてあげてください。",
+  "totalScore": 46.5
+ },
+ {
+  "mood": {
+   "emotional": 77,
+   "motivation": 51,
+   "social": 66,
+   "physical": 92,
+   "fulfillment": 75
+  },
+  "goodThings": [
+   "a",
+   "b",
+   "c"
+  ],
+  "emotion": "満足・安定",
+  "feedback": "「a、b、c」いいですね。しっかりとした一日を過ごせましたね。その安定感があなたの強さです。",
+  "totalScore": 69.5
+ },
+ {
+  "mood": {
+   "emotional": 96,
+   "motivation": 37,
+   "social": 46,
+   "physical": 27,
+   "fulfillment": 1
+  },
+  "goodThings": [],
+  "emotion": "気分は良いが空虚",
+  "feedback": "気持ちは前向きなのに、心にぽっかり穴が空いたような感覚…。小さなことでも自分を満たしてあげてくださいね。",
+  "totalScore": 50.1
+ },
+ {
+  "mood": {
+   "emotional": 55,
+   "motivation": 52,
+   "social": 89,
+   "physical": 16,
+   "fulfillment": 75
+  },
+  "goodThings": [
+   "散歩した"
+  ],
+  "emotion": "普通・平穏",
+  "feedback": "「散歩した」いいですね。特別な日でなくても、今日一日を過ごせたこと自体が素敵なこと。お疲れさまでした。",
+  "totalScore": 60.2
+ },
+ {
+  "mood": {
+   "emotional": 77,
+   "motivation": 92,
+   "social": 19,
+   "physical": 44,
+   "fulfillment": 67
+  },
+  "goodThings": [
+   "散歩した",
+   "",
+   "カフェ"
+  ],
+  "emotion": "リラックス・静穏",
+  "feedback": "「散歩した、カフェ」いいですね。ゆったりと心が落ち着いている時間、大切にしてくださいね。",
+  "totalScore": 64.4
+ },
+ {
+  "mood": {
+   "emotional": 3,
+   "motivation": 31,
+   "social": 53,
+   "physical": 27,
+   "fulfillment": 18
+  },
+  "goodThings": [
+   "  空がきれい  ",
+   "   ",
+   "友達と話した"
+  ],
+  "emotion": "憂鬱・自己嫌悪",
+  "feedback": "「空がきれい、友達と話した」いいですね。自分を責めてしまう時もありますよね。でも、あなたはそのままで十分頑張っています。",
+  "totalScore": 24.7
+ }
+]
