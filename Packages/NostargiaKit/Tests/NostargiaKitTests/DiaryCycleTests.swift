@@ -43,6 +43,19 @@ struct DiaryCycleTests {
         #expect(dstCycle.end(containing: noon).timeIntervalSince(start) == 23 * 3600)
     }
 
+    @Test func dstEndDayIsTwentyFiveHours() {
+        let newYork = Self.calendar("America/New_York")
+        let dstCycle = DiaryCycle(calendar: newYork)
+        // 2026-11-01 2:00 に夏時間が終わるので、10/31 6:00〜11/1 6:00 の周期が25時間になる
+        let noon = date(2026, 10, 31, 12, calendar: newYork)
+        let start = dstCycle.start(containing: noon)
+        #expect(start == date(2026, 10, 31, 6, calendar: newYork))
+        #expect(dstCycle.end(containing: noon) == date(2026, 11, 1, 6, calendar: newYork))
+        #expect(dstCycle.end(containing: noon).timeIntervalSince(start) == 25 * 3600)
+        // 夏時間が終わった直後（6:00 より前）は、前日の周期に属する
+        #expect(dstCycle.start(containing: date(2026, 11, 1, 5, calendar: newYork)) == start)
+    }
+
     @Test func noStarsMeansReady() {
         #expect(!cycle.isCooldownActive(starDates: [], now: date(2026, 11, 6, 12)))
         #expect(cycle.cooldownProgress(starDates: [], now: date(2026, 11, 6, 12)) == 1)
