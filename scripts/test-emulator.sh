@@ -6,4 +6,4 @@ cd "$(dirname "$0")/.."
 [ -f Config/Firebase.xcconfig ] || cp Config/Firebase.xcconfig.example Config/Firebase.xcconfig
 xcodegen generate --quiet
 firebase emulators:exec --only auth,firestore --project demo-nostargia \
-  "xcodebuild test -project Nostargia.xcodeproj -scheme Nostargia -destination 'platform=iOS Simulator,name=iPhone 17' -clonedSourcePackagesDirPath build/SourcePackages -derivedDataPath build/dd -quiet $*"
+  "xcodebuild test -project Nostargia.xcodeproj -scheme Nostargia -destination 'platform=iOS Simulator,name=iPhone 17' -clonedSourcePackagesDirPath build/SourcePackages -derivedDataPath build/dd -disableAutomaticPackageResolution -quiet $*"

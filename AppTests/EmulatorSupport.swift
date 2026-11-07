@@ -36,4 +36,41 @@ enum EmulatorSupport {
             return try await group.next()!
         }
     }
+
+    enum Outcome: Equatable, Sendable {
+        case succeeded
+        case failed
+        case timedOut
+    }
+
+    /// 処理がキャンセルに応じなくても、時間切れになったらそこで結果を返す
+    static func outcome(within timeout: Duration, _ body: @escaping @Sendable () async throws -> Void) async -> Outcome {
+        let gate = Gate()
+        return await withCheckedContinuation { continuation in
+            Task {
+                let result: Outcome
+                do {
+                    try await body()
+                    result = .succeeded
+                } catch {
+                    result = .failed
+                }
+                if await gate.open() { continuation.resume(returning: result) }
+            }
+            Task {
+                try? await Task.sleep(for: timeout)
+                if await gate.open() { continuation.resume(returning: .timedOut) }
+            }
+        }
+    }
+
+    private actor Gate {
+        private var opened = false
+
+        func open() -> Bool {
+            if opened { return false }
+            opened = true
+            return true
+        }
+    }
 }

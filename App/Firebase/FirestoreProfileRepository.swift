@@ -49,7 +49,8 @@ final class FirestoreProfileRepository: ProfileRepository, @unchecked Sendable {
 
     func deleteAllData() async throws {
         for name in Self.subcollections {
-            let snapshot = try await document.collection(name).getDocuments()
+            // キャッシュから読むとオフラインでも先へ進み、commit が通信の回復を待ち続けてしまうので、サーバーから読む
+            let snapshot = try await document.collection(name).getDocuments(source: .server)
             // 1回のバッチは最大500件
             for chunk in stride(from: 0, to: snapshot.documents.count, by: 500) {
                 let batch = document.firestore.batch()

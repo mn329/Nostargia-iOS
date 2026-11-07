@@ -1,3 +1,4 @@
+@preconcurrency import FirebaseFirestore
 import NostargiaKit
 import XCTest
 @testable import Nostargia
@@ -45,6 +46,19 @@ final class FirestoreProfileTagTests: XCTestCase {
         try await tags.delete(id: added.id)
         names = try await tags.tags().map(\.name)
         XCTAssertEqual(names, [])
+    }
+
+    /// オフラインでアカウント削除を押しても、待ち続けずにすぐ失敗する
+    func testDeleteAllDataFailsFastOffline() async throws {
+        let uid = try await signUp()
+        let profiles = FirestoreProfileRepository(uid: uid)
+        try await profiles.create(UserProfile(userName: "みなと", birthday: birthday))
+        let db = Firestore.firestore()
+        try await db.disableNetwork()
+
+        let outcome = await EmulatorSupport.outcome(within: .seconds(5)) { try await profiles.deleteAllData() }
+        try await db.enableNetwork()
+        XCTAssertEqual(outcome, .failed)
     }
 
     func testDeleteAllDataIsIdempotent() async throws {

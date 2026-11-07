@@ -4,7 +4,7 @@
 @preconcurrency import FirebaseFirestore
 import Foundation
 
-/// Firebase の初期化。テスト中・-useFirebaseEmulator 指定時・GoogleService-Info.plist が無いときはエミュレーターにつなぐ
+/// Firebase の初期化。DEBUG ビルドで、テスト中・-useFirebaseEmulator 指定時・GoogleService-Info.plist が無いときはエミュレーターにつなぐ
 enum FirebaseBootstrap {
     enum Mode: Equatable {
         case production
@@ -14,7 +14,15 @@ enum FirebaseBootstrap {
     static let demoProjectID = "demo-nostargia"
     static let emulatorHost = "127.0.0.1"
 
-    static func mode(environment: [String: String], arguments: [String], hasConfigFile: Bool) -> Mode {
+    #if DEBUG
+    static let isDebugBuild = true
+    #else
+    static let isDebugBuild = false
+    #endif
+
+    /// エミュレーターに切り替えるのは DEBUG ビルドだけ。リリース版は常に本番（plist が無ければ FirebaseApp.configure() で落ちて気づける）
+    static func mode(environment: [String: String], arguments: [String], hasConfigFile: Bool, isDebugBuild: Bool = isDebugBuild) -> Mode {
+        guard isDebugBuild else { return .production }
         if environment["XCTestConfigurationFilePath"] != nil { return .emulator }
         if arguments.contains("-useFirebaseEmulator") { return .emulator }
         return hasConfigFile ? .production : .emulator

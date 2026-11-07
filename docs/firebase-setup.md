@@ -10,5 +10,5 @@
    `firebase deploy --only firestore:rules --project <プロジェクトID>`
 6. **AI Logic**: 「AI Logic」→「始める」→ Gemini Developer API を選ぶ。
 7. **Remote Config**: パラメータ `letter_model`（文字列）、既定値 `gemini-3.5-flash` を作って公開する。
-8. **App Check**: アプリを App Attest で登録する（Team ID `K3BSAX58ZG`）。シミュレーターではデバッグプロバイダーを使うので、アプリを1度起動して Xcode のログに出る「Firebase App Check debug token」をコンソールの「デバッグトークンを管理」に登録する。AI Logic の App Check を「適用」にするのは、実機での動作を確認してから。
+8. **App Check**: アプリを App Attest で登録する（Team ID `K3BSAX58ZG`）。シミュレーターではデバッグプロバイダーを使うので、アプリを1度起動して Xcode のログに出る「Firebase App Check debug token」をコンソールの「デバッグトークンを管理」に登録する。実機での動作を確認したら、**App Store 公開前に必ず** AI Logic・Cloud Firestore・Authentication の3つすべてで App Check を「適用」にする（API キーはアプリに含まれるので、適用しないと、アプリ以外から大量の登録や書き込みをされて無料枠を使い切られるおそれがある）。
 9. **Apple Developer**: Xcode の Signing & Capabilities で Sign in with Apple と App Attest が付いていることを確認する（project.yml から自動で付く）。
