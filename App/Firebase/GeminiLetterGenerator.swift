@@ -17,7 +17,9 @@ final class GeminiLetterGenerator: LetterGenerating, @unchecked Sendable {
             modelName: await modelName(),
             generationConfig: GenerationConfig(
                 responseMIMEType: "application/json",
-                responseSchema: .object(properties: ["feedback": .string()])
+                responseSchema: .object(properties: ["feedback": .string()]),
+                // 思考を最小にする。既定のままだと返事に6〜36秒かかり、10秒のタイムアウトを超える
+                thinkingConfig: ThinkingConfig(thinkingLevel: .minimal)
             )
         )
         let response = try await model.generateContent(prompt)
