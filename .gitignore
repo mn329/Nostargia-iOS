@@ -2,7 +2,20 @@
 .build/
 DerivedData/
 xcuserdata/
-*.xcodeproj/
+# Xcode プロジェクトは XcodeGen の生成物。ただし依存ライブラリの確定版（Package.resolved）はコミットして固定する
+*.xcodeproj/*
+!*.xcodeproj/project.xcworkspace/
+*.xcodeproj/project.xcworkspace/*
+!*.xcodeproj/project.xcworkspace/xcshareddata/
+*.xcodeproj/project.xcworkspace/xcshareddata/*
+!*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/*
+!*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
 GoogleService-Info.plist
 node_modules/
 .superpowers/
+Config/Firebase.xcconfig
+App/Info.plist
+App/Nostargia.entitlements
+build/
+*-debug.log

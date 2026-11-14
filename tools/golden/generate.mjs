@@ -127,10 +127,32 @@ const diaryCycle = instants.map((at) => ({
 const constellations = CONSTELLATIONS.map(({ id, name, starCount, description, features, history, starPositions, lines }) =>
   ({ id, name, starCount, description, features, history, starPositions, lines }));
 
+// supabase/functions/analyze-diary/index.ts のプロンプト組み立て部分をそのまま実行する
+const edgeSrc = readFileSync(join(webRepo, 'supabase/functions/analyze-diary/index.ts'), 'utf8');
+const promptStart = edgeSrc.indexOf('const goodThingsSection');
+const promptEnd = edgeSrc.indexOf('\n}`', promptStart) + 3;
+if (promptStart < 0 || promptEnd < 3) throw new Error('analyze-diary のプロンプトが見つかりません');
+const buildPrompt = new Function(
+  'axes', 'emotion', 'emotional', 'motivation', 'social', 'physical', 'fulfillment', 'goodThingsList',
+  `${edgeSrc.slice(promptStart, promptEnd)}\nreturn prompt;`,
+);
+const axesFns = extractFunctions('src/utils/fallbackAnalysis.js', ['toLevel', 'calculateThreeAxes']);
+const { calculateThreeAxes } = new Function(`${axesFns.code}\nreturn { calculateThreeAxes };`)();
+const PROMPT_GOOD_THINGS = [[], ['散歩した'], ['  空がきれい  ', '', '友達と話した'], ['a', 'b', 'c']];
+const letterPrompt = moods.slice(0, 60).map((mood, i) => {
+  const goodThings = PROMPT_GOOD_THINGS[i % PROMPT_GOOD_THINGS.length];
+  const goodThingsList = goodThings.filter((s) => !!s && typeof s === 'string').map((s) => s.trim()).filter(Boolean);
+  const axes = calculateThreeAxes(mood);
+  const { emotion } = getFallbackAnalysis(mood);
+  const prompt = buildPrompt(axes, emotion, mood.emotional, mood.motivation, mood.social, mood.physical, mood.fulfillment, goodThingsList);
+  return { mood, goodThings, prompt };
+});
+
 const write = (dir, name, data) => writeFileSync(join(dir, name), `${JSON.stringify(data, null, 1)}\n`);
 write(fixturesDir, 'mood_analysis.json', moodAnalysis);
 write(fixturesDir, 'mood_color.json', moodColor);
 write(fixturesDir, 'constellation_hash.json', constellationHash);
 write(fixturesDir, 'diary_cycle.json', diaryCycle);
+write(fixturesDir, 'letter_prompt.json', letterPrompt);
 write(resourcesDir, 'constellations.json', constellations);
 console.log(`mood ${moods.length} 件 / 感情タイプ ${emotionKinds.size} 種 / 星座 ${constellations.length} 個 / 時刻 ${instants.length} 件`);
